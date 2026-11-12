@@ -1,0 +1,46 @@
+{
+  "id": "0X3fmjVWmsE",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "【世界國旗選：美洲】World Flags: Americas in Cantonese｜北美洲 加勒比地區 中美洲 南美洲｜幼童常識 for Toddlers｜廣東話教室",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T18:50:41Z",
+  "index": "indexes/youtube/0X3fmjVWmsE.json",
+  "total_occurrences": 1917,
+  "unique_words": 369,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 123,
+  "youtube_id": "0X3fmjVWmsE",
+  "url": "https://www.youtube.com/watch?v=0X3fmjVWmsE",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "channel_name": "Uncle Calvin Cantonese Class",
+  "channel_thumbnail": "assets/channels/UCCVn38j5xSJZN-II-TeyomA.jpg",
+  "thumbnail": "assets/videos/0X3fmjVWmsE.webp",
+  "playlist_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "playlist_title": "Uncle Calvin Cantonese Class",
+  "playlist_index": 7,
+  "upload_date": "2026-06-17",
+  "release_timestamp": 1781690405
+}

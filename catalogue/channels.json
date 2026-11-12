@@ -25,6 +25,30 @@
       "thumbnail": "assets/channels/UCTVpvSswSER2sq1USBTGfnw.jpg"
     },
     {
+      "id": "UCPMsgWJvrkEHE0OpIMtxyYQ",
+      "youtube_channel_id": "UCPMsgWJvrkEHE0OpIMtxyYQ",
+      "name": "Comfort鬆",
+      "enabled": true,
+      "video_count": 62,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCPMsgWJvrkEHE0OpIMtxyYQ",
+      "thumbnail": "assets/channels/UCPMsgWJvrkEHE0OpIMtxyYQ.jpg"
+    },
+    {
+      "id": "UCQS2_zzisMq5C_FggxsQwTQ",
+      "youtube_channel_id": "UCQS2_zzisMq5C_FggxsQwTQ",
+      "name": "Comprehensible Cantonese",
+      "enabled": true,
+      "video_count": 335,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQS2_zzisMq5C_FggxsQwTQ",
+      "thumbnail": "assets/channels/UCQS2_zzisMq5C_FggxsQwTQ.jpg"
+    },
+    {
       "id": "UCbmZSNWyEoM2xtWhbHRPo3w",
       "youtube_channel_id": "UCbmZSNWyEoM2xtWhbHRPo3w",
       "name": "D100 Radio",
@@ -37,11 +61,71 @@
       "thumbnail": "assets/channels/UCbmZSNWyEoM2xtWhbHRPo3w.jpg"
     },
     {
+      "id": "UCNZv5IQfcWySi8iPtB1zNlw",
+      "youtube_channel_id": "UCNZv5IQfcWySi8iPtB1zNlw",
+      "name": "FEmeow",
+      "enabled": true,
+      "video_count": 37,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNZv5IQfcWySi8iPtB1zNlw",
+      "thumbnail": "assets/channels/UCNZv5IQfcWySi8iPtB1zNlw.jpg"
+    },
+    {
+      "id": "UCW_n_gfIv4HhRqCk8EnRhJA",
+      "youtube_channel_id": "UCW_n_gfIv4HhRqCk8EnRhJA",
+      "name": "Happy Kongner",
+      "enabled": true,
+      "video_count": 113,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCW_n_gfIv4HhRqCk8EnRhJA",
+      "thumbnail": "assets/channels/UCW_n_gfIv4HhRqCk8EnRhJA.jpg"
+    },
+    {
+      "id": "UCpE6V9kRImKY0HX3THRgYpw",
+      "youtube_channel_id": "UCpE6V9kRImKY0HX3THRgYpw",
+      "name": "InspirLang",
+      "enabled": true,
+      "video_count": 10,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpE6V9kRImKY0HX3THRgYpw",
+      "thumbnail": "assets/channels/UCpE6V9kRImKY0HX3THRgYpw.jpg"
+    },
+    {
+      "id": "UCNbLsoqYdTHC92c2-K8dodA",
+      "youtube_channel_id": "UCNbLsoqYdTHC92c2-K8dodA",
+      "name": "Kim Tsang",
+      "enabled": true,
+      "video_count": 30,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCNbLsoqYdTHC92c2-K8dodA",
+      "thumbnail": "assets/channels/UCNbLsoqYdTHC92c2-K8dodA.jpg"
+    },
+    {
+      "id": "UCgwEJflQi4WnZ8PU0xdibZQ",
+      "youtube_channel_id": "UCgwEJflQi4WnZ8PU0xdibZQ",
+      "name": "Kinson Ho",
+      "enabled": true,
+      "video_count": 54,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCgwEJflQi4WnZ8PU0xdibZQ",
+      "thumbnail": "assets/channels/UCgwEJflQi4WnZ8PU0xdibZQ.jpg"
+    },
+    {
       "id": "UCFvNTonwenxQQkPlaSPxdUA",
       "youtube_channel_id": "UCFvNTonwenxQQkPlaSPxdUA",
       "name": "Learn Cantonese Together",
       "enabled": true,
-      "video_count": 6,
+      "video_count": 123,
       "categories": [
         "youtube"
       ],
@@ -61,6 +145,42 @@
       "thumbnail": "assets/channels/UCEuQ-0x3uMk1KghGiO1kTHg.jpg"
     },
     {
+      "id": "UC2oB9QCXs-RKtaKChrz4dKg",
+      "youtube_channel_id": "UC2oB9QCXs-RKtaKChrz4dKg",
+      "name": "MtzCherry",
+      "enabled": true,
+      "video_count": 43,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2oB9QCXs-RKtaKChrz4dKg",
+      "thumbnail": "assets/channels/UC2oB9QCXs-RKtaKChrz4dKg.jpg"
+    },
+    {
+      "id": "UC249m2fxYzK-NnfH06YNP3A",
+      "youtube_channel_id": "UC249m2fxYzK-NnfH06YNP3A",
+      "name": "Siu Mei小美",
+      "enabled": true,
+      "video_count": 26,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC249m2fxYzK-NnfH06YNP3A",
+      "thumbnail": "assets/channels/UC249m2fxYzK-NnfH06YNP3A.jpg"
+    },
+    {
+      "id": "UCCVn38j5xSJZN-II-TeyomA",
+      "youtube_channel_id": "UCCVn38j5xSJZN-II-TeyomA",
+      "name": "Uncle Calvin Cantonese Class",
+      "enabled": true,
+      "video_count": 133,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCCVn38j5xSJZN-II-TeyomA",
+      "thumbnail": "assets/channels/UCCVn38j5xSJZN-II-TeyomA.jpg"
+    },
+    {
       "id": "UCRlq4EUzB7RUBiaX_ax5Ylw",
       "youtube_channel_id": "UCRlq4EUzB7RUBiaX_ax5Ylw",
       "name": "啡啡channel",
@@ -73,6 +193,30 @@
       "thumbnail": "assets/channels/UCRlq4EUzB7RUBiaX_ax5Ylw.jpg"
     },
     {
+      "id": "UCrKLUUq0DFi33HCODp59okg",
+      "youtube_channel_id": "UCrKLUUq0DFi33HCODp59okg",
+      "name": "溜港chill",
+      "enabled": true,
+      "video_count": 148,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCrKLUUq0DFi33HCODp59okg",
+      "thumbnail": "assets/channels/UCrKLUUq0DFi33HCODp59okg.jpg"
+    },
+    {
+      "id": "UCMosCy_NDf55rDQhzdX_h3w",
+      "youtube_channel_id": "UCMosCy_NDf55rDQhzdX_h3w",
+      "name": "熊熊兒童音樂 Bear Music Ltd.",
+      "enabled": true,
+      "video_count": 32,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMosCy_NDf55rDQhzdX_h3w",
+      "thumbnail": "assets/channels/UCMosCy_NDf55rDQhzdX_h3w.jpg"
+    },
+    {
       "id": "UCs_6goIkQkJsGahXwlqVKlw",
       "youtube_channel_id": "UCs_6goIkQkJsGahXwlqVKlw",
       "name": "米走雞",
@@ -83,6 +227,42 @@
       ],
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs_6goIkQkJsGahXwlqVKlw",
       "thumbnail": "assets/channels/UCs_6goIkQkJsGahXwlqVKlw.jpg"
+    },
+    {
+      "id": "UCdki6R3jA00E7narSTlsYtA",
+      "youtube_channel_id": "UCdki6R3jA00E7narSTlsYtA",
+      "name": "繽 FUN 多倫多 - Jinny's Toronto Life ",
+      "enabled": true,
+      "video_count": 168,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdki6R3jA00E7narSTlsYtA",
+      "thumbnail": "assets/channels/UCdki6R3jA00E7narSTlsYtA.jpg"
+    },
+    {
+      "id": "UC6x9ZsseOx2VH5jUxR5yoMA",
+      "youtube_channel_id": "UC6x9ZsseOx2VH5jUxR5yoMA",
+      "name": "郭柏妍 Rosita Kwok",
+      "enabled": true,
+      "video_count": 34,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC6x9ZsseOx2VH5jUxR5yoMA",
+      "thumbnail": "assets/channels/UC6x9ZsseOx2VH5jUxR5yoMA.jpg"
+    },
+    {
+      "id": "UCF6M5AH_OALkimFGKdlWfCw",
+      "youtube_channel_id": "UCF6M5AH_OALkimFGKdlWfCw",
+      "name": "采姐姐的故事王國 Lillian's Story Kingdom",
+      "enabled": true,
+      "video_count": 21,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF6M5AH_OALkimFGKdlWfCw",
+      "thumbnail": "assets/channels/UCF6M5AH_OALkimFGKdlWfCw.jpg"
     },
     {
       "id": "UCUtm1awT2EO9D7uJ2OlMcTQ",

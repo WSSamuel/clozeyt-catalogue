@@ -1,0 +1,31 @@
+{
+  "schema_version": 5,
+  "id": "USZ1OHD04EI",
+  "language": "yue",
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "tokenizer_parity": "dart-subtitle-tokenizer-runes-frequency-first-v1",
+  "dictionary_source": "https://github.com/WSSamuel/cantonese_dictionary_builder/releases/latest/download/cantonese.db.gz",
+  "dictionary_word_count": 63266,
+  "total_occurrences": 12,
+  "unique_words": 6,
+  "subtitle_codepoints": 20,
+  "matched_dictionary_occurrences": 12,
+  "unmatched_character_occurrences": 4,
+  "unmatched_characters": {
+    "～": 4
+  },
+  "latin_handling": "same_as_flutter_dictionary_tokens",
+  "title": "🇭🇰 廣東話ASMR即影即有 instax printer開箱 || CANTONESE ASMR Unboxing video",
+  "channel_id": "UC2oB9QCXs-RKtaKChrz4dKg",
+  "channel_name": "MtzCherry",
+  "playlist_id": "UC2oB9QCXs-RKtaKChrz4dKg",
+  "playlist_title": "MtzCherry",
+  "vocabulary": {
+    "好": 2,
+    "戴": 2,
+    "收聽": 2,
+    "更": 2,
+    "會": 2,
+    "耳筒": 2
+  }
+}

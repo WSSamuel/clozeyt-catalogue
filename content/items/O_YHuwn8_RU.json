@@ -1,0 +1,46 @@
+{
+  "id": "O_YHuwn8_RU",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "education",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "The First Total Solar Eclipse in 27 Years! || 🟡Beginner || Comprehensible Input",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T15:02:14Z",
+  "index": "indexes/youtube/O_YHuwn8_RU.json",
+  "total_occurrences": 492,
+  "unique_words": 169,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 12,
+  "youtube_id": "O_YHuwn8_RU",
+  "url": "https://www.youtube.com/watch?v=O_YHuwn8_RU",
+  "youtube_category": "Travel & Events",
+  "source_type": "youtube",
+  "channel_id": "UCFvNTonwenxQQkPlaSPxdUA",
+  "channel_name": "Learn Cantonese Together",
+  "channel_thumbnail": "assets/channels/UCFvNTonwenxQQkPlaSPxdUA.jpg",
+  "thumbnail": "assets/videos/O_YHuwn8_RU.webp",
+  "playlist_id": "UCFvNTonwenxQQkPlaSPxdUA",
+  "playlist_title": "Learn Cantonese Together",
+  "playlist_index": 25,
+  "upload_date": "2026-08-14",
+  "release_timestamp": 1786716009
+}

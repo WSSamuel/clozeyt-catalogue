@@ -1,0 +1,46 @@
+{
+  "id": "No6ONoLGxQc",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "熊熊粵語兒童故事精選｜中國民間故事｜鑽木取火",
+  "language": "zh-HK",
+  "language_group": "regional_chinese",
+  "subtitle_classification": "regional_chinese",
+  "subtitle_classification_label": "Hong Kong/Macau Chinese (dialect not verified)",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "zh-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T21:01:59Z",
+  "index": "indexes/youtube/No6ONoLGxQc.json",
+  "total_occurrences": 707,
+  "unique_words": 343,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 2,
+  "youtube_id": "No6ONoLGxQc",
+  "url": "https://www.youtube.com/watch?v=No6ONoLGxQc",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCMosCy_NDf55rDQhzdX_h3w",
+  "channel_name": "熊熊兒童音樂 Bear Music Ltd.",
+  "channel_thumbnail": "assets/channels/UCMosCy_NDf55rDQhzdX_h3w.jpg",
+  "thumbnail": "assets/videos/No6ONoLGxQc.webp",
+  "playlist_id": "UCMosCy_NDf55rDQhzdX_h3w",
+  "playlist_title": "熊熊兒童音樂 Bear Music Ltd.",
+  "playlist_index": 187,
+  "upload_date": "2019-02-16",
+  "release_timestamp": 1550286001
+}

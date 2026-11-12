@@ -1,0 +1,46 @@
+{
+  "id": "dZNQUsd9ctc",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "【健康食物金字塔】Food Pyramid for Kids in Cantonese I 幼童認字 for Toddlers I 砌積木 均衡飲食 2至5歲幼童適用 I 廣東話教室",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T18:52:44Z",
+  "index": "indexes/youtube/dZNQUsd9ctc.json",
+  "total_occurrences": 1337,
+  "unique_words": 307,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 126,
+  "youtube_id": "dZNQUsd9ctc",
+  "url": "https://www.youtube.com/watch?v=dZNQUsd9ctc",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "channel_name": "Uncle Calvin Cantonese Class",
+  "channel_thumbnail": "assets/channels/UCCVn38j5xSJZN-II-TeyomA.jpg",
+  "thumbnail": "assets/videos/dZNQUsd9ctc.webp",
+  "playlist_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "playlist_title": "Uncle Calvin Cantonese Class",
+  "playlist_index": 31,
+  "upload_date": "2025-06-20",
+  "release_timestamp": 1750413606
+}

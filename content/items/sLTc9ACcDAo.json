@@ -1,0 +1,46 @@
+{
+  "id": "sLTc9ACcDAo",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "【畢加索逾60真跡在港展出】Picasso in Hong Kong I M+博物館 藝術展 I 兒童新聞報道 UCC News I 廣東話教室",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T18:53:09Z",
+  "index": "indexes/youtube/sLTc9ACcDAo.json",
+  "total_occurrences": 494,
+  "unique_words": 251,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 26,
+  "youtube_id": "sLTc9ACcDAo",
+  "url": "https://www.youtube.com/watch?v=sLTc9ACcDAo",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "channel_name": "Uncle Calvin Cantonese Class",
+  "channel_thumbnail": "assets/channels/UCCVn38j5xSJZN-II-TeyomA.jpg",
+  "thumbnail": "assets/videos/sLTc9ACcDAo.webp",
+  "playlist_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "playlist_title": "Uncle Calvin Cantonese Class",
+  "playlist_index": 34,
+  "upload_date": "2025-05-11",
+  "release_timestamp": 1746957606
+}

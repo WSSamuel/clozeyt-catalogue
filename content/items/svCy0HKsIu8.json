@@ -1,0 +1,46 @@
+{
+  "id": "svCy0HKsIu8",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "【山野遊學團：北海道】MOUNTAIN Tour: Hokkaido I 幼童廣東話遊學團 Kids Cantonese Tour I 廣東話教室 I 字幕/Subtitles",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T18:56:12Z",
+  "index": "indexes/youtube/svCy0HKsIu8.json",
+  "total_occurrences": 719,
+  "unique_words": 329,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 48,
+  "youtube_id": "svCy0HKsIu8",
+  "url": "https://www.youtube.com/watch?v=svCy0HKsIu8",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "channel_name": "Uncle Calvin Cantonese Class",
+  "channel_thumbnail": "assets/channels/UCCVn38j5xSJZN-II-TeyomA.jpg",
+  "thumbnail": "assets/videos/svCy0HKsIu8.webp",
+  "playlist_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "playlist_title": "Uncle Calvin Cantonese Class",
+  "playlist_index": 74,
+  "upload_date": "2022-12-30",
+  "release_timestamp": 1672372807
+}

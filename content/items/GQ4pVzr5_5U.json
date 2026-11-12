@@ -1,0 +1,46 @@
+{
+  "id": "GQ4pVzr5_5U",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "education",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "Bamboo Scaffolding - A Traditional Symbol in Hong Kong || Comprehensible Input",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T15:07:37Z",
+  "index": "indexes/youtube/GQ4pVzr5_5U.json",
+  "total_occurrences": 438,
+  "unique_words": 189,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 56,
+  "youtube_id": "GQ4pVzr5_5U",
+  "url": "https://www.youtube.com/watch?v=GQ4pVzr5_5U",
+  "youtube_category": "People & Blogs",
+  "source_type": "youtube",
+  "channel_id": "UCFvNTonwenxQQkPlaSPxdUA",
+  "channel_name": "Learn Cantonese Together",
+  "channel_thumbnail": "assets/channels/UCFvNTonwenxQQkPlaSPxdUA.jpg",
+  "thumbnail": "assets/videos/GQ4pVzr5_5U.webp",
+  "playlist_id": "UCFvNTonwenxQQkPlaSPxdUA",
+  "playlist_title": "Learn Cantonese Together",
+  "playlist_index": 100,
+  "upload_date": "2025-11-29",
+  "release_timestamp": 1764406833
+}

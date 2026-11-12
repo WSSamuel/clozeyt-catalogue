@@ -2,14 +2,18 @@
   "id": "IrWXbDQBsRs",
   "type": "youtube",
   "category_id": "youtube",
-  "subcategory_id": null,
+  "subcategory_id": "education",
   "category_ids": [
     "youtube"
   ],
-  "subcategory_ids": [],
-  "cross_tags": [],
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
   "channel_tag_rule_applied": false,
-  "category_manual": false,
+  "category_manual": true,
   "title": "What is Comprehensible Input? Can you learn a language without studying grammar? [EN Sub]",
   "language": "yue",
   "language_group": "auto_cantonese",

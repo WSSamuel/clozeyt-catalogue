@@ -1,0 +1,32 @@
+{
+  "schema_version": 5,
+  "id": "gGHFY1e7oxw",
+  "language": "yue",
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "tokenizer_parity": "dart-subtitle-tokenizer-runes-frequency-first-v1",
+  "dictionary_source": "https://github.com/WSSamuel/cantonese_dictionary_builder/releases/latest/download/cantonese.db.gz",
+  "dictionary_word_count": 63266,
+  "total_occurrences": 8,
+  "unique_words": 6,
+  "subtitle_codepoints": 17,
+  "matched_dictionary_occurrences": 8,
+  "unmatched_character_occurrences": 5,
+  "unmatched_characters": {
+    "t": 3,
+    "r": 2
+  },
+  "latin_handling": "same_as_flutter_dictionary_tokens",
+  "title": "正宗泰國菜 ? 🤔 泰文點讀 ? 🤔吃了 15 種 泰國特色美食👍😋 開年 👏 - Part 2",
+  "channel_id": "UCdki6R3jA00E7narSTlsYtA",
+  "channel_name": "繽 FUN 多倫多 - Jinny's Toronto Life ",
+  "playlist_id": "UCdki6R3jA00E7narSTlsYtA",
+  "playlist_title": "繽 FUN 多倫多 - Jinny's Toronto Life",
+  "vocabulary": {
+    "c": 2,
+    "e": 2,
+    "i": 1,
+    "le": 1,
+    "m": 1,
+    "o": 1
+  }
+}

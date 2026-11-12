@@ -1,0 +1,46 @@
+{
+  "id": "lMG62bbgcEo",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "【12個奧運球類項目】Olympics' Ball Sports in Cantonese I 奧運會 奧林匹克運動會 法國巴黎奧運 弗里吉 I 幼童常識 for Toddlers I 廣東話教室",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T18:53:51Z",
+  "index": "indexes/youtube/lMG62bbgcEo.json",
+  "total_occurrences": 1502,
+  "unique_words": 352,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 103,
+  "youtube_id": "lMG62bbgcEo",
+  "url": "https://www.youtube.com/watch?v=lMG62bbgcEo",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "channel_name": "Uncle Calvin Cantonese Class",
+  "channel_thumbnail": "assets/channels/UCCVn38j5xSJZN-II-TeyomA.jpg",
+  "thumbnail": "assets/videos/lMG62bbgcEo.webp",
+  "playlist_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "playlist_title": "Uncle Calvin Cantonese Class",
+  "playlist_index": 45,
+  "upload_date": "2024-07-11",
+  "release_timestamp": 1720692006
+}

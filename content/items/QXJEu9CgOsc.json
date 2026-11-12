@@ -1,0 +1,46 @@
+{
+  "id": "QXJEu9CgOsc",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "education",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "The Weird Football Words ONLY Hong Kong People Understand! 🧈🙌🏼🥚🇭🇰|| Football 101 || 🟠 Intermediate",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T15:03:43Z",
+  "index": "indexes/youtube/QXJEu9CgOsc.json",
+  "total_occurrences": 2035,
+  "unique_words": 536,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 52,
+  "youtube_id": "QXJEu9CgOsc",
+  "url": "https://www.youtube.com/watch?v=QXJEu9CgOsc",
+  "youtube_category": "Sports",
+  "source_type": "youtube",
+  "channel_id": "UCFvNTonwenxQQkPlaSPxdUA",
+  "channel_name": "Learn Cantonese Together",
+  "channel_thumbnail": "assets/channels/UCFvNTonwenxQQkPlaSPxdUA.jpg",
+  "thumbnail": "assets/videos/QXJEu9CgOsc.webp",
+  "playlist_id": "UCFvNTonwenxQQkPlaSPxdUA",
+  "playlist_title": "Learn Cantonese Together",
+  "playlist_index": 46,
+  "upload_date": "2026-06-16",
+  "release_timestamp": 1781618438
+}

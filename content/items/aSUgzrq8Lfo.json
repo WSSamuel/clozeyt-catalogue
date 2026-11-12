@@ -1,0 +1,46 @@
+{
+  "id": "aSUgzrq8Lfo",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "【畫黃鴨】Draw a Yellow Duck I 黃鴨 I 粉彩 I 橡皮鴨 I 幼童畫畫 Toddlers' Drawing I 廣東話教室",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T18:55:17Z",
+  "index": "indexes/youtube/aSUgzrq8Lfo.json",
+  "total_occurrences": 574,
+  "unique_words": 220,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 27,
+  "youtube_id": "aSUgzrq8Lfo",
+  "url": "https://www.youtube.com/watch?v=aSUgzrq8Lfo",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "channel_name": "Uncle Calvin Cantonese Class",
+  "channel_thumbnail": "assets/channels/UCCVn38j5xSJZN-II-TeyomA.jpg",
+  "thumbnail": "assets/videos/aSUgzrq8Lfo.webp",
+  "playlist_id": "UCCVn38j5xSJZN-II-TeyomA",
+  "playlist_title": "Uncle Calvin Cantonese Class",
+  "playlist_index": 62,
+  "upload_date": "2023-06-19",
+  "release_timestamp": 1687168807
+}

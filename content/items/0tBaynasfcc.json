@@ -1,0 +1,46 @@
+{
+  "id": "0tBaynasfcc",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "education",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "What Do We Want to Do in Hong Kong? || 🟡Beginner || Comprehensible Input",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T15:01:09Z",
+  "index": "indexes/youtube/0tBaynasfcc.json",
+  "total_occurrences": 1140,
+  "unique_words": 342,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 64,
+  "youtube_id": "0tBaynasfcc",
+  "url": "https://www.youtube.com/watch?v=0tBaynasfcc",
+  "youtube_category": "Travel & Events",
+  "source_type": "youtube",
+  "channel_id": "UCFvNTonwenxQQkPlaSPxdUA",
+  "channel_name": "Learn Cantonese Together",
+  "channel_thumbnail": "assets/channels/UCFvNTonwenxQQkPlaSPxdUA.jpg",
+  "thumbnail": "assets/videos/0tBaynasfcc.webp",
+  "playlist_id": "UCFvNTonwenxQQkPlaSPxdUA",
+  "playlist_title": "Learn Cantonese Together",
+  "playlist_index": 9,
+  "upload_date": "2026-10-06",
+  "release_timestamp": 1791295214
+}

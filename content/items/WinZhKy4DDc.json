@@ -2,14 +2,18 @@
   "id": "WinZhKy4DDc",
   "type": "youtube",
   "category_id": "youtube",
-  "subcategory_id": null,
+  "subcategory_id": "education",
   "category_ids": [
     "youtube"
   ],
-  "subcategory_ids": [],
-  "cross_tags": [],
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
   "channel_tag_rule_applied": false,
-  "category_manual": false,
+  "category_manual": true,
   "title": "Why did I start this channel? || 🟠Intermediate || Comprehensible Input [EN sub]",
   "language": "yue",
   "language_group": "auto_cantonese",
