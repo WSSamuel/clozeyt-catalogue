@@ -1,0 +1,46 @@
+{
+  "id": "Zqe8v_3sOyQ",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "education",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "Peppa Pig Cantonese 粵語 - S1E24 Treasure Hunt［尋寶遊戲］",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-11T18:37:49Z",
+  "index": "indexes/youtube/Zqe8v_3sOyQ.json",
+  "total_occurrences": 638,
+  "unique_words": 218,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 70,
+  "youtube_id": "Zqe8v_3sOyQ",
+  "url": "https://www.youtube.com/watch?v=Zqe8v_3sOyQ",
+  "youtube_category": "Film & Animation",
+  "source_type": "youtube",
+  "channel_id": "UCYvWWDj90w1wSoFSe0AcaZg",
+  "channel_name": "CantoCaptions",
+  "channel_thumbnail": "assets/channels/UCYvWWDj90w1wSoFSe0AcaZg.jpg",
+  "thumbnail": "assets/videos/Zqe8v_3sOyQ.webp",
+  "playlist_id": "UCYvWWDj90w1wSoFSe0AcaZg",
+  "playlist_title": "CantoCaptions",
+  "playlist_index": 52,
+  "upload_date": "2025-06-15",
+  "release_timestamp": 1749990689
+}

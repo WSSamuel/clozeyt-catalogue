@@ -1,0 +1,37 @@
+{
+  "id": "IAy72Qtbe5c",
+  "youtube_id": "IAy72Qtbe5c",
+  "source_type": "youtube",
+  "type": "youtube",
+  "title": "[JFFLIVE 直播精華] 鬼故分享變笑話擂樂(加甜)｜師姐比鬼壓足24小時｜捕夢網放錯位導致招來靈異經歷",
+  "url": "https://www.youtube.com/watch?v=IAy72Qtbe5c",
+  "language": "yue",
+  "language_group": "cantonese",
+  "subtitle_classification": "manual_transcript",
+  "subtitle_classification_label": "Manually pasted transcript",
+  "subtitle_source": "manual_transcript",
+  "subtitle_track_language_code": "yue",
+  "subtitle_verified": true,
+  "status": "indexed",
+  "indexed_at": "2026-11-11T22:56:16Z",
+  "index": "indexes/manual/IAy72Qtbe5c.json",
+  "subtitle_file": "incoming/subtitles/IAy72Qtbe5c_manual_transcript.srt",
+  "channel_id": "UCs_6goIkQkJsGahXwlqVKlw",
+  "channel_name": "米走雞",
+  "channel_thumbnail": null,
+  "total_occurrences": 2481,
+  "unique_words": 602,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 292,
+  "category_id": "youtube",
+  "subcategory_id": "just_chatting",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "just_chatting"
+  ],
+  "cross_tags": [],
+  "category_manual": true
+}

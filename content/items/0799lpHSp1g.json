@@ -1,0 +1,46 @@
+{
+  "id": "0799lpHSp1g",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "【粵語 賀年歌🧧 -- ❝祝福你❞ Zuk Fuk Nei 】❤️一家人唱農曆新年經典歌曲COVER ！ 👧🏻👦🏻🎙️🎵🍊",
+  "language": "zh-TW",
+  "language_group": "traditional_chinese",
+  "subtitle_classification": "traditional_chinese",
+  "subtitle_classification_label": "Traditional Chinese (dialect not verified)",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "zh-Hant",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T12:23:11Z",
+  "index": "indexes/youtube/0799lpHSp1g.json",
+  "total_occurrences": 290,
+  "unique_words": 92,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 12,
+  "youtube_id": "0799lpHSp1g",
+  "url": "https://www.youtube.com/watch?v=0799lpHSp1g",
+  "youtube_category": "People & Blogs",
+  "source_type": "youtube",
+  "channel_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "channel_name": "黐住這一家 Sticky Love Family",
+  "channel_thumbnail": "assets/channels/UCUtm1awT2EO9D7uJ2OlMcTQ.jpg",
+  "thumbnail": "assets/videos/0799lpHSp1g.webp",
+  "playlist_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "playlist_title": "黐住這一家 Sticky Love Family",
+  "playlist_index": 20,
+  "upload_date": "2024-01-29",
+  "release_timestamp": 1706544432
+}

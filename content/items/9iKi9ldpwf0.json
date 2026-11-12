@@ -1,0 +1,46 @@
+{
+  "id": "9iKi9ldpwf0",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "【聖誕故事系列❤️Ep.01】🙏聖誕節嘅由來 ! ❝ 耶穌誕生嘅故事❞  [ Eng Sub CC | 中文字幕 ]",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T12:24:20Z",
+  "index": "indexes/youtube/9iKi9ldpwf0.json",
+  "total_occurrences": 526,
+  "unique_words": 194,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 232,
+  "youtube_id": "9iKi9ldpwf0",
+  "url": "https://www.youtube.com/watch?v=9iKi9ldpwf0",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "channel_name": "黐住這一家 Sticky Love Family",
+  "channel_thumbnail": "assets/channels/UCUtm1awT2EO9D7uJ2OlMcTQ.jpg",
+  "thumbnail": "assets/videos/9iKi9ldpwf0.webp",
+  "playlist_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "playlist_title": "黐住這一家 Sticky Love Family",
+  "playlist_index": 36,
+  "upload_date": "2021-12-23",
+  "release_timestamp": 1640232002
+}

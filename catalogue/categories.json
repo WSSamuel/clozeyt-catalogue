@@ -1,0 +1,151 @@
+{
+  "categories": [
+    {
+      "id": "youtube",
+      "title": "YouTube",
+      "order": 1,
+      "subcategories": [
+        {
+          "id": "vlog",
+          "title": "Vlogs",
+          "order": 1
+        },
+        {
+          "id": "gaming",
+          "title": "Gaming",
+          "order": 2
+        },
+        {
+          "id": "news",
+          "title": "News",
+          "order": 3
+        },
+        {
+          "id": "education",
+          "title": "Education",
+          "order": 4
+        },
+        {
+          "id": "commentary",
+          "title": "Commentary",
+          "order": 5
+        },
+        {
+          "id": "podcasts",
+          "title": "Podcasts",
+          "order": 6
+        },
+        {
+          "id": "animations",
+          "title": "Animations",
+          "order": 7
+        },
+        {
+          "id": "kids",
+          "title": "Kids",
+          "order": 8
+        },
+        {
+          "id": "just_chatting",
+          "title": "Just Chatting",
+          "order": 9
+        }
+      ]
+    },
+    {
+      "id": "music",
+      "title": "Music",
+      "order": 2,
+      "subcategories": [
+        {
+          "id": "pop",
+          "title": "Pop",
+          "order": 1
+        },
+        {
+          "id": "rock",
+          "title": "Rock",
+          "order": 2
+        },
+        {
+          "id": "hip_hop",
+          "title": "Hip-hop",
+          "order": 3
+        },
+        {
+          "id": "classical",
+          "title": "Classical",
+          "order": 4
+        },
+        {
+          "id": "jazz",
+          "title": "Jazz",
+          "order": 5
+        },
+        {
+          "id": "kpop",
+          "title": "K-pop",
+          "order": 6
+        },
+        {
+          "id": "jpop",
+          "title": "J-pop",
+          "order": 7
+        },
+        {
+          "id": "music_video",
+          "title": "Music Videos / Other Music",
+          "order": 8
+        },
+        {
+          "id": "live_performance",
+          "title": "Live Performances",
+          "order": 9
+        },
+        {
+          "id": "cover",
+          "title": "Covers",
+          "order": 10
+        },
+        {
+          "id": "lyrics",
+          "title": "Lyric Videos",
+          "order": 11
+        }
+      ]
+    },
+    {
+      "id": "dramas_movies",
+      "title": "Movies & Dramas",
+      "order": 3,
+      "subcategories": [
+        {
+          "id": "movie",
+          "title": "Movies",
+          "order": 1
+        },
+        {
+          "id": "drama",
+          "title": "TV Dramas",
+          "order": 2
+        },
+        {
+          "id": "anime",
+          "title": "Anime",
+          "order": 3
+        },
+        {
+          "id": "documentary",
+          "title": "Documentaries",
+          "order": 4
+        }
+      ]
+    }
+  ],
+  "shared_tags": [
+    {
+      "id": "made_for_learners",
+      "title": "Made for Learners"
+    }
+  ]
+}

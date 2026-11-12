@@ -1,0 +1,283 @@
+{
+  "playlists": [
+    {
+      "id": "d4fd544530f4",
+      "channel_id": "UCYvWWDj90w1wSoFSe0AcaZg",
+      "created_at": "2026-11-11T19:33:01Z",
+      "title": "Peppa Pig — Season 1",
+      "videos": [
+        {
+          "youtube_id": "TdZMSSBcSXg",
+          "episode": 1
+        },
+        {
+          "youtube_id": "HJKVBLv0NXc",
+          "episode": 2
+        },
+        {
+          "youtube_id": "VNTnLUmKDag",
+          "episode": 3
+        },
+        {
+          "youtube_id": "d-lN9N4Xv2Y",
+          "episode": 4
+        },
+        {
+          "youtube_id": "hB3XUIdA-cQ",
+          "episode": 5
+        },
+        {
+          "youtube_id": "7XHRlKu1NYk",
+          "episode": 6
+        },
+        {
+          "youtube_id": "NzhX1ogl7Uc",
+          "episode": 7
+        },
+        {
+          "youtube_id": "iJQNoFCB8KI",
+          "episode": 8
+        },
+        {
+          "youtube_id": "-4zyZmhUEh0",
+          "episode": 9
+        },
+        {
+          "youtube_id": "N_p9iX5Qt7A",
+          "episode": 10
+        },
+        {
+          "youtube_id": "E-ha7uNvud8",
+          "episode": 11
+        },
+        {
+          "youtube_id": "ScSXXq83VEY",
+          "episode": 12
+        },
+        {
+          "youtube_id": "PyuqRPkZXts",
+          "episode": 13
+        },
+        {
+          "youtube_id": "cU9SCZ_VYG8",
+          "episode": 14
+        },
+        {
+          "youtube_id": "_uvHlI7BXco",
+          "episode": 15
+        },
+        {
+          "youtube_id": "4tNsPnFQdaQ",
+          "episode": 16
+        },
+        {
+          "youtube_id": "1PVYxuIFzi0",
+          "episode": 17
+        },
+        {
+          "youtube_id": "wWz1GWTbSLw",
+          "episode": 18
+        },
+        {
+          "youtube_id": "uprcgxfc4hk",
+          "episode": 19
+        },
+        {
+          "youtube_id": "tnvRLeKGWww",
+          "episode": 20
+        },
+        {
+          "youtube_id": "rHcitaDjwns",
+          "episode": 21
+        },
+        {
+          "youtube_id": "Uv7nqACbSLg",
+          "episode": 22
+        },
+        {
+          "youtube_id": "Zqe8v_3sOyQ",
+          "episode": 23
+        },
+        {
+          "youtube_id": "KS8QXx_wAEQ",
+          "episode": 24
+        },
+        {
+          "youtube_id": "icKjnIrkpXA",
+          "episode": 25
+        },
+        {
+          "youtube_id": "oQbK_hQ-mSI",
+          "episode": 26
+        },
+        {
+          "youtube_id": "EXxq8pW0Pbo",
+          "episode": 27
+        },
+        {
+          "youtube_id": "Lzoesj0aNQw",
+          "episode": 28
+        },
+        {
+          "youtube_id": "Z-Tf-WBR2n4",
+          "episode": 29
+        },
+        {
+          "youtube_id": "oisGrGbOKiQ",
+          "episode": 30
+        },
+        {
+          "youtube_id": "W5iD6uEnowA",
+          "episode": 31
+        },
+        {
+          "youtube_id": "l0yc-Gs8FlU",
+          "episode": 32
+        },
+        {
+          "youtube_id": "Vjh7U2Q6Wew",
+          "episode": 33
+        },
+        {
+          "youtube_id": "FzIjkwYlkWQ",
+          "episode": 34
+        },
+        {
+          "youtube_id": "wHkspSzhnr4",
+          "episode": 35
+        },
+        {
+          "youtube_id": "h-PATnMnxj0",
+          "episode": 36
+        },
+        {
+          "youtube_id": "uV6DJLY6XEg",
+          "episode": 37
+        },
+        {
+          "youtube_id": "Y4GHb7MSO-w",
+          "episode": 38
+        },
+        {
+          "youtube_id": "80U7oxLxjFI",
+          "episode": 39
+        },
+        {
+          "youtube_id": "ASgKO38-jZE",
+          "episode": 40
+        },
+        {
+          "youtube_id": "iICV9IHo54I",
+          "episode": 41
+        },
+        {
+          "youtube_id": "JVS5r7Y1CVk",
+          "episode": 42
+        },
+        {
+          "youtube_id": "Swmn_wYUhHw",
+          "episode": 43
+        },
+        {
+          "youtube_id": "hpsKkikZP54",
+          "episode": 44
+        },
+        {
+          "youtube_id": "Va8llxI3s5o",
+          "episode": 45
+        },
+        {
+          "youtube_id": "3cSTKUlokbE",
+          "episode": 46
+        },
+        {
+          "youtube_id": "L0VlkzfzMeY",
+          "episode": 47
+        },
+        {
+          "youtube_id": "CuLOVWncd5o",
+          "episode": 48
+        }
+      ],
+      "updated_at": "2026-11-11T19:34:43Z"
+    },
+    {
+      "id": "a3da06f1c799",
+      "channel_id": "UCYvWWDj90w1wSoFSe0AcaZg",
+      "created_at": "2026-11-11T19:34:54Z",
+      "title": "Peppa Pig — Season 2",
+      "videos": [
+        {
+          "youtube_id": "n9F7BLWRFZw",
+          "episode": 1
+        },
+        {
+          "youtube_id": "LMZL4vXB8E8",
+          "episode": 2
+        },
+        {
+          "youtube_id": "1FC-R37MkyM",
+          "episode": 3
+        },
+        {
+          "youtube_id": "SZe4pkAWxuw",
+          "episode": 4
+        },
+        {
+          "youtube_id": "jGwJMvIo8mA",
+          "episode": 5
+        },
+        {
+          "youtube_id": "ENKiZSq3dfs",
+          "episode": 6
+        },
+        {
+          "youtube_id": "qW44F3SY-h8",
+          "episode": 7
+        },
+        {
+          "youtube_id": "SatcU10Dz9E",
+          "episode": 8
+        },
+        {
+          "youtube_id": "RHmrAPnL_q4",
+          "episode": 9
+        },
+        {
+          "youtube_id": "sbc1qNlMySI",
+          "episode": 10
+        }
+      ],
+      "updated_at": "2026-11-11T19:35:16Z"
+    },
+    {
+      "id": "c3ed0c38b70f",
+      "channel_id": "UCYvWWDj90w1wSoFSe0AcaZg",
+      "created_at": "2026-11-11T19:35:31Z",
+      "title": "Ninja Hattori-Kun Cantonese",
+      "videos": [
+        {
+          "youtube_id": "1plmn2d5yx0",
+          "episode": 1
+        },
+        {
+          "youtube_id": "CjI7WupgPPs",
+          "episode": 2
+        },
+        {
+          "youtube_id": "8Pb3LwuuF5E",
+          "episode": 3
+        },
+        {
+          "youtube_id": "wsNVosRNPDs",
+          "episode": 4
+        },
+        {
+          "youtube_id": "-D9PwYBQ9co",
+          "episode": 5
+        }
+      ],
+      "updated_at": "2026-11-11T19:35:53Z"
+    }
+  ]
+}

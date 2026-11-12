@@ -1,0 +1,46 @@
+{
+  "id": "ciPOtIsLLNQ",
+  "type": "song",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "【原創 廣東話兒歌💙Track02】 ❝ 當你生氣時😠💢❞  教你舒緩情緒方法的絕招！❤️ 5歲小朋友和媽媽合唱👦🏻👩🏻‍💻🎧 社交故事主題曲！🎵  ENG SUB CC/粵語字幕/繁簡字幕",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T12:24:34Z",
+  "index": "indexes/music/ciPOtIsLLNQ.json",
+  "total_occurrences": 155,
+  "unique_words": 65,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 15,
+  "youtube_id": "ciPOtIsLLNQ",
+  "url": "https://www.youtube.com/watch?v=ciPOtIsLLNQ",
+  "youtube_category": "Music",
+  "source_type": "youtube",
+  "channel_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "channel_name": "黐住這一家 Sticky Love Family",
+  "channel_thumbnail": "assets/channels/UCUtm1awT2EO9D7uJ2OlMcTQ.jpg",
+  "thumbnail": "assets/videos/ciPOtIsLLNQ.webp",
+  "playlist_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "playlist_title": "黐住這一家 Sticky Love Family",
+  "playlist_index": 41,
+  "upload_date": "2021-05-26",
+  "release_timestamp": 1622014210
+}

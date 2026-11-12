@@ -1,0 +1,46 @@
+{
+  "id": "ScSXXq83VEY",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "education",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
+  "category_manual": false,
+  "title": "Peppa Pig Cantonese 粵語 - S1E12 Bicycles［單車］(Canto spoken subs)",
+  "language": "yue",
+  "language_group": "auto_cantonese",
+  "subtitle_classification": "auto_cantonese",
+  "subtitle_classification_label": "Cantonese subtitle track",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "yue",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-11T18:40:05Z",
+  "index": "indexes/youtube/ScSXXq83VEY.json",
+  "total_occurrences": 659,
+  "unique_words": 195,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 90,
+  "youtube_id": "ScSXXq83VEY",
+  "url": "https://www.youtube.com/watch?v=ScSXXq83VEY",
+  "youtube_category": "Film & Animation",
+  "source_type": "youtube",
+  "channel_id": "UCYvWWDj90w1wSoFSe0AcaZg",
+  "channel_name": "CantoCaptions",
+  "channel_thumbnail": "assets/channels/UCYvWWDj90w1wSoFSe0AcaZg.jpg",
+  "thumbnail": "assets/videos/ScSXXq83VEY.webp",
+  "playlist_id": "UCYvWWDj90w1wSoFSe0AcaZg",
+  "playlist_title": "CantoCaptions",
+  "playlist_index": 63,
+  "upload_date": "2025-03-06",
+  "release_timestamp": 1741295490
+}

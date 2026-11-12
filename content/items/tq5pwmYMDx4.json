@@ -1,0 +1,46 @@
+{
+  "id": "tq5pwmYMDx4",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "【黐住玩 一齊學👦🏻🧒🏻 第五集】💖🎨Toddle Kids畫室爆靚❝水晶流體畫❞ 工作坊🌟零經驗、新手都玩得！完成品靚到可以掛牆！😍",
+  "language": "zh-TW",
+  "language_group": "traditional_chinese",
+  "subtitle_classification": "traditional_chinese",
+  "subtitle_classification_label": "Traditional Chinese (dialect not verified)",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "zh-Hant",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T12:26:35Z",
+  "index": "indexes/youtube/tq5pwmYMDx4.json",
+  "total_occurrences": 629,
+  "unique_words": 273,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 87,
+  "youtube_id": "tq5pwmYMDx4",
+  "url": "https://www.youtube.com/watch?v=tq5pwmYMDx4",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "channel_name": "黐住這一家 Sticky Love Family",
+  "channel_thumbnail": "assets/channels/UCUtm1awT2EO9D7uJ2OlMcTQ.jpg",
+  "thumbnail": "assets/videos/tq5pwmYMDx4.webp",
+  "playlist_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "playlist_title": "黐住這一家 Sticky Love Family",
+  "playlist_index": 7,
+  "upload_date": "2025-04-27",
+  "release_timestamp": 1745729248
+}

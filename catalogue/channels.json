@@ -1,0 +1,100 @@
+{
+  "channels": [
+    {
+      "id": "UCYvWWDj90w1wSoFSe0AcaZg",
+      "youtube_channel_id": "UCYvWWDj90w1wSoFSe0AcaZg",
+      "name": "CantoCaptions",
+      "enabled": true,
+      "video_count": 71,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYvWWDj90w1wSoFSe0AcaZg",
+      "thumbnail": "assets/channels/UCYvWWDj90w1wSoFSe0AcaZg.jpg"
+    },
+    {
+      "id": "UCTVpvSswSER2sq1USBTGfnw",
+      "youtube_channel_id": "UCTVpvSswSER2sq1USBTGfnw",
+      "name": "Cantonese with Brittany",
+      "enabled": true,
+      "video_count": 8,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTVpvSswSER2sq1USBTGfnw",
+      "thumbnail": "assets/channels/UCTVpvSswSER2sq1USBTGfnw.jpg"
+    },
+    {
+      "id": "UCbmZSNWyEoM2xtWhbHRPo3w",
+      "youtube_channel_id": "UCbmZSNWyEoM2xtWhbHRPo3w",
+      "name": "D100 Radio",
+      "enabled": true,
+      "video_count": 8,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCbmZSNWyEoM2xtWhbHRPo3w",
+      "thumbnail": "assets/channels/UCbmZSNWyEoM2xtWhbHRPo3w.jpg"
+    },
+    {
+      "id": "UCFvNTonwenxQQkPlaSPxdUA",
+      "youtube_channel_id": "UCFvNTonwenxQQkPlaSPxdUA",
+      "name": "Learn Cantonese Together",
+      "enabled": true,
+      "video_count": 6,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFvNTonwenxQQkPlaSPxdUA",
+      "thumbnail": "assets/channels/UCFvNTonwenxQQkPlaSPxdUA.jpg"
+    },
+    {
+      "id": "UCEuQ-0x3uMk1KghGiO1kTHg",
+      "youtube_channel_id": "UCEuQ-0x3uMk1KghGiO1kTHg",
+      "name": "MIRROR",
+      "enabled": true,
+      "video_count": 224,
+      "categories": [
+        "music"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCEuQ-0x3uMk1KghGiO1kTHg",
+      "thumbnail": "assets/channels/UCEuQ-0x3uMk1KghGiO1kTHg.jpg"
+    },
+    {
+      "id": "UCRlq4EUzB7RUBiaX_ax5Ylw",
+      "youtube_channel_id": "UCRlq4EUzB7RUBiaX_ax5Ylw",
+      "name": "啡啡channel",
+      "enabled": true,
+      "video_count": 8,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlq4EUzB7RUBiaX_ax5Ylw",
+      "thumbnail": "assets/channels/UCRlq4EUzB7RUBiaX_ax5Ylw.jpg"
+    },
+    {
+      "id": "UCs_6goIkQkJsGahXwlqVKlw",
+      "youtube_channel_id": "UCs_6goIkQkJsGahXwlqVKlw",
+      "name": "米走雞",
+      "enabled": true,
+      "video_count": 233,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCs_6goIkQkJsGahXwlqVKlw",
+      "thumbnail": "assets/channels/UCs_6goIkQkJsGahXwlqVKlw.jpg"
+    },
+    {
+      "id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+      "youtube_channel_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+      "name": "黐住這一家 Sticky Love Family",
+      "enabled": true,
+      "video_count": 59,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCUtm1awT2EO9D7uJ2OlMcTQ",
+      "thumbnail": "assets/channels/UCUtm1awT2EO9D7uJ2OlMcTQ.jpg"
+    }
+  ]
+}

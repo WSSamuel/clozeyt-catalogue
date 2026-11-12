@@ -1,0 +1,38 @@
+{
+  "schema_version": 5,
+  "id": "OGw5sI4UF6Q",
+  "language": "zh-TW",
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "tokenizer_parity": "dart-subtitle-tokenizer-runes-frequency-first-v1",
+  "dictionary_source": "https://github.com/WSSamuel/cantonese_dictionary_builder/releases/latest/download/cantonese.db.gz",
+  "dictionary_word_count": 63266,
+  "total_occurrences": 118,
+  "unique_words": 12,
+  "subtitle_codepoints": 220,
+  "matched_dictionary_occurrences": 118,
+  "unmatched_character_occurrences": 56,
+  "unmatched_characters": {
+    "！": 42,
+    "，": 14
+  },
+  "latin_handling": "same_as_flutter_dictionary_tokens",
+  "title": "【聖誕歌🎄Track04】🦌聖誕Peekaboo!💫 6歲小朋友第一次寫歌！🎧❄️ 廣東話 粵語 幼稚園兒歌",
+  "channel_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "channel_name": "黐住這一家 Sticky Love Family",
+  "playlist_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "playlist_title": "黐住這一家 Sticky Love Family",
+  "vocabulary": {
+    "聖誕": 32,
+    "樹": 28,
+    "貓": 28,
+    "躲": 14,
+    "人": 2,
+    "星星": 2,
+    "燈飾": 2,
+    "禮物": 2,
+    "老人": 2,
+    "薑餅": 2,
+    "雪人": 2,
+    "馴鹿": 2
+  }
+}

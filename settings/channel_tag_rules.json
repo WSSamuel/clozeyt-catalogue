@@ -1,0 +1,33 @@
+{
+  "rules": [
+    {
+      "id": "UCEuQ-0x3uMk1KghGiO1kTHg",
+      "category_id": "music",
+      "subcategory_ids": [
+        "pop"
+      ],
+      "cross_tags": [],
+      "updated_at": "2026-11-11T17:04:36Z"
+    },
+    {
+      "id": "UCs_6goIkQkJsGahXwlqVKlw",
+      "category_id": "youtube",
+      "subcategory_ids": [
+        "just_chatting"
+      ],
+      "cross_tags": [],
+      "updated_at": "2026-11-11T23:00:17Z"
+    },
+    {
+      "id": "UCYvWWDj90w1wSoFSe0AcaZg",
+      "category_id": "youtube",
+      "subcategory_ids": [
+        "animations"
+      ],
+      "cross_tags": [
+        "made_for_learners"
+      ],
+      "updated_at": "2026-11-11T23:00:34Z"
+    }
+  ]
+}

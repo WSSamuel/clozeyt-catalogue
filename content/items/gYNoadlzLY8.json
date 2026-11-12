@@ -1,0 +1,46 @@
+{
+  "id": "gYNoadlzLY8",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "kids",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "【經典故事系列💛Ep.03】👱🏻‍♀️🐻❝ 金髮女孩與三隻熊 ❞ !  配音員媽媽與小朋友一齊講經典故事  [ Eng Sub CC | 中文字幕 ]",
+  "language": "zh-HK",
+  "language_group": "regional_chinese",
+  "subtitle_classification": "regional_chinese",
+  "subtitle_classification_label": "Hong Kong/Macau Chinese (dialect not verified)",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "zh-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-12T12:26:17Z",
+  "index": "indexes/youtube/gYNoadlzLY8.json",
+  "total_occurrences": 875,
+  "unique_words": 291,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 251,
+  "youtube_id": "gYNoadlzLY8",
+  "url": "https://www.youtube.com/watch?v=gYNoadlzLY8",
+  "youtube_category": "Education",
+  "source_type": "youtube",
+  "channel_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "channel_name": "黐住這一家 Sticky Love Family",
+  "channel_thumbnail": "assets/channels/UCUtm1awT2EO9D7uJ2OlMcTQ.jpg",
+  "thumbnail": "assets/videos/gYNoadlzLY8.webp",
+  "playlist_id": "UCUtm1awT2EO9D7uJ2OlMcTQ",
+  "playlist_title": "黐住這一家 Sticky Love Family",
+  "playlist_index": 64,
+  "upload_date": "2020-05-17",
+  "release_timestamp": 1589697286
+}

@@ -1,0 +1,37 @@
+{
+  "id": "LyiBoM6uuUg",
+  "youtube_id": "LyiBoM6uuUg",
+  "source_type": "youtube",
+  "type": "youtube",
+  "title": "[JFFLIVE 直播精華] 良少爆神級狙擊操作｜Pro Gamer再次證明自己｜AI終結者米少｜PUBG 精華",
+  "url": "https://www.youtube.com/watch?v=LyiBoM6uuUg",
+  "language": "yue",
+  "language_group": "cantonese",
+  "subtitle_classification": "manual_transcript",
+  "subtitle_classification_label": "Manually pasted transcript",
+  "subtitle_source": "manual_transcript",
+  "subtitle_track_language_code": "yue",
+  "subtitle_verified": true,
+  "status": "indexed",
+  "indexed_at": "2026-11-11T22:53:10Z",
+  "index": "indexes/manual/LyiBoM6uuUg.json",
+  "subtitle_file": "incoming/subtitles/LyiBoM6uuUg_manual_transcript.srt",
+  "channel_id": "UCs_6goIkQkJsGahXwlqVKlw",
+  "channel_name": "米走雞",
+  "channel_thumbnail": null,
+  "total_occurrences": 1211,
+  "unique_words": 302,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 162,
+  "category_id": "youtube",
+  "subcategory_id": "gaming",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "gaming"
+  ],
+  "cross_tags": [],
+  "category_manual": true
+}

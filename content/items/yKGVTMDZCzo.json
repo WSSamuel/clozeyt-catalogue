@@ -1,0 +1,37 @@
+{
+  "id": "yKGVTMDZCzo",
+  "youtube_id": "yKGVTMDZCzo",
+  "source_type": "youtube",
+  "type": "youtube",
+  "title": "[JFFLIVE 直播精華] 床哥耳力超進化日記｜從0到120%的爆笑之旅｜見字請掉晒屋企棉花棒",
+  "url": "https://www.youtube.com/watch?v=yKGVTMDZCzo",
+  "language": "yue",
+  "language_group": "cantonese",
+  "subtitle_classification": "manual_transcript",
+  "subtitle_classification_label": "Manually pasted transcript",
+  "subtitle_source": "manual_transcript",
+  "subtitle_track_language_code": "yue",
+  "subtitle_verified": true,
+  "status": "indexed",
+  "indexed_at": "2026-11-11T22:55:43Z",
+  "index": "indexes/manual/yKGVTMDZCzo.json",
+  "subtitle_file": "incoming/subtitles/yKGVTMDZCzo_manual_transcript.srt",
+  "channel_id": "UCs_6goIkQkJsGahXwlqVKlw",
+  "channel_name": "米走雞",
+  "channel_thumbnail": null,
+  "total_occurrences": 2337,
+  "unique_words": 524,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 456,
+  "category_id": "youtube",
+  "subcategory_id": "just_chatting",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "just_chatting"
+  ],
+  "cross_tags": [],
+  "category_manual": true
+}

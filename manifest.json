@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "catalogue_version": 10,
+  "updated_at": "2026-11-12T12:49:16Z",
+  "files": {
+    "categories": "catalogue/categories.json",
+    "channels": "catalogue/channels.json",
+    "published": "catalogue/published.json",
+    "playlists": "catalogue/playlists.json"
+  },
+  "version": "2.3.32"
+}
