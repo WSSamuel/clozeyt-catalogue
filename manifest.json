@@ -1,12 +1,13 @@
 {
   "schema_version": 1,
-  "catalogue_version": 68,
-  "updated_at": "2026-11-12T21:11:45Z",
+  "catalogue_version": 8,
+  "updated_at": "2026-11-13T13:54:21Z",
   "files": {
     "categories": "catalogue/categories.json",
     "channels": "catalogue/channels.json",
     "published": "catalogue/published.json",
-    "playlists": "catalogue/playlists.json"
+    "playlists": "catalogue/playlists.json",
+    "mastery_index": "indexes/mastery-global.json"
   },
   "version": "2.3.32"
 }
