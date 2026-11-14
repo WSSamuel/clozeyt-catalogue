@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "catalogue_version": 8,
-  "updated_at": "2026-11-14T13:53:10Z",
+  "catalogue_version": 10,
+  "updated_at": "2026-11-14T17:03:25Z",
   "files": {
     "categories": "catalogue/categories.json",
     "channels": "catalogue/channels.json",
@@ -9,5 +9,5 @@
     "playlists": "catalogue/playlists.json",
     "mastery_index": "indexes/mastery-global.json"
   },
-  "version": "2.3.45"
+  "version": "2.3.48"
 }

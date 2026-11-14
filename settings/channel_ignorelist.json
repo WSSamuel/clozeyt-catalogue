@@ -52940,15 +52940,6 @@
       "thumbnail": "https://i.ytimg.com/vi/NDakhxA-h84/hqdefault.jpg"
     },
     {
-      "youtube_id": "Y80f2q-wK1o",
-      "title": "Y80f2q-wK1o",
-      "channel_id": null,
-      "channel_name": null,
-      "reason": "members_only",
-      "ignored_at": "2026-11-14T01:18:28Z",
-      "thumbnail": "https://i.ytimg.com/vi/Y80f2q-wK1o/hqdefault.jpg"
-    },
-    {
       "youtube_id": "dZi7NCmRD_E",
       "title": "APEX 預告片最大騙局",
       "channel_id": "UC2nS6tzmGmZohSwyTNgyXow",
@@ -52967,13 +52958,47 @@
       "thumbnail": "https://i.ytimg.com/vi/k8GMMq2ukKg/hqdefault.jpg"
     },
     {
+      "youtube_id": "Pg4E-_i8MuA",
+      "title": "桂林疊彩山掠影｜廣西美景 20220813",
+      "channel_id": "UCBiJDTc82IM68KVH873VeAw",
+      "channel_name": "Live in Kwangsi廣西人·情·味",
+      "added_at": "2026-11-14T14:22:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/Pg4E-_i8MuA/hqdefault.jpg"
+    },
+    {
+      "youtube_id": "Yti22QmOZag",
+      "title": "廣西網民自製本地勾漏粵語搞笑短劇",
+      "channel_id": "UCBiJDTc82IM68KVH873VeAw",
+      "channel_name": "Live in Kwangsi廣西人·情·味",
+      "added_at": "2026-11-14T14:23:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/Yti22QmOZag/hqdefault.jpg"
+    },
+    {
+      "youtube_id": "Y80f2q-wK1o",
+      "title": "Y80f2q-wK1o",
+      "channel_id": "UCVvdX8wGBmCM9KerhiVu_Ig",
+      "channel_name": "McFatty 麥花田",
+      "reason": "members_only",
+      "ignored_at": "2026-11-14T17:02:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/Y80f2q-wK1o/hqdefault.jpg"
+    },
+    {
       "youtube_id": "fZ0eP9vSxIE",
       "title": "fZ0eP9vSxIE",
-      "channel_id": null,
-      "channel_name": null,
+      "channel_id": "UCVvdX8wGBmCM9KerhiVu_Ig",
+      "channel_name": "McFatty 麥花田",
       "reason": "members_only",
-      "ignored_at": "2026-11-14T01:18:31Z",
+      "ignored_at": "2026-11-14T17:02:56Z",
       "thumbnail": "https://i.ytimg.com/vi/fZ0eP9vSxIE/hqdefault.jpg"
+    },
+    {
+      "youtube_id": "EavSiNcsvKk",
+      "title": "📍華姐清湯腩｜ 📍八寶清湯腩 ｜ 有心做又係咪只為出名？ Ep295",
+      "channel_id": "UCVvdX8wGBmCM9KerhiVu_Ig",
+      "channel_name": "McFatty 麥花田",
+      "reason": "no_candidate_subtitles",
+      "ignored_at": "2026-11-14T17:03:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/EavSiNcsvKk/hqdefault.jpg"
     }
   ]
 }
