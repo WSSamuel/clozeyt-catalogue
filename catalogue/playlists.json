@@ -8,195 +8,243 @@
       "videos": [
         {
           "youtube_id": "TdZMSSBcSXg",
-          "episode": 1
+          "episode": 1,
+          "thumbnail": "https://i.ytimg.com/vi/TdZMSSBcSXg/hqdefault.jpg"
         },
         {
           "youtube_id": "HJKVBLv0NXc",
-          "episode": 2
+          "episode": 2,
+          "thumbnail": "https://i.ytimg.com/vi/HJKVBLv0NXc/hqdefault.jpg"
         },
         {
           "youtube_id": "VNTnLUmKDag",
-          "episode": 3
+          "episode": 3,
+          "thumbnail": "https://i.ytimg.com/vi/VNTnLUmKDag/hqdefault.jpg"
         },
         {
           "youtube_id": "d-lN9N4Xv2Y",
-          "episode": 4
+          "episode": 4,
+          "thumbnail": "https://i.ytimg.com/vi/d-lN9N4Xv2Y/hqdefault.jpg"
         },
         {
           "youtube_id": "hB3XUIdA-cQ",
-          "episode": 5
+          "episode": 5,
+          "thumbnail": "https://i.ytimg.com/vi/hB3XUIdA-cQ/hqdefault.jpg"
         },
         {
           "youtube_id": "7XHRlKu1NYk",
-          "episode": 6
+          "episode": 6,
+          "thumbnail": "https://i.ytimg.com/vi/7XHRlKu1NYk/hqdefault.jpg"
         },
         {
           "youtube_id": "NzhX1ogl7Uc",
-          "episode": 7
+          "episode": 7,
+          "thumbnail": "https://i.ytimg.com/vi/NzhX1ogl7Uc/hqdefault.jpg"
         },
         {
           "youtube_id": "iJQNoFCB8KI",
-          "episode": 8
+          "episode": 8,
+          "thumbnail": "https://i.ytimg.com/vi/iJQNoFCB8KI/hqdefault.jpg"
         },
         {
           "youtube_id": "-4zyZmhUEh0",
-          "episode": 9
+          "episode": 9,
+          "thumbnail": "https://i.ytimg.com/vi/-4zyZmhUEh0/hqdefault.jpg"
         },
         {
           "youtube_id": "N_p9iX5Qt7A",
-          "episode": 10
+          "episode": 10,
+          "thumbnail": "https://i.ytimg.com/vi/N_p9iX5Qt7A/hqdefault.jpg"
         },
         {
           "youtube_id": "E-ha7uNvud8",
-          "episode": 11
+          "episode": 11,
+          "thumbnail": "https://i.ytimg.com/vi/E-ha7uNvud8/hqdefault.jpg"
         },
         {
           "youtube_id": "ScSXXq83VEY",
-          "episode": 12
+          "episode": 12,
+          "thumbnail": "https://i.ytimg.com/vi/ScSXXq83VEY/hqdefault.jpg"
         },
         {
           "youtube_id": "PyuqRPkZXts",
-          "episode": 13
+          "episode": 13,
+          "thumbnail": "https://i.ytimg.com/vi/PyuqRPkZXts/hqdefault.jpg"
         },
         {
           "youtube_id": "cU9SCZ_VYG8",
-          "episode": 14
+          "episode": 14,
+          "thumbnail": "https://i.ytimg.com/vi/cU9SCZ_VYG8/hqdefault.jpg"
         },
         {
           "youtube_id": "_uvHlI7BXco",
-          "episode": 15
+          "episode": 15,
+          "thumbnail": "https://i.ytimg.com/vi/_uvHlI7BXco/hqdefault.jpg"
         },
         {
           "youtube_id": "4tNsPnFQdaQ",
-          "episode": 16
+          "episode": 16,
+          "thumbnail": "https://i.ytimg.com/vi/4tNsPnFQdaQ/hqdefault.jpg"
         },
         {
           "youtube_id": "1PVYxuIFzi0",
-          "episode": 17
+          "episode": 17,
+          "thumbnail": "https://i.ytimg.com/vi/1PVYxuIFzi0/hqdefault.jpg"
         },
         {
           "youtube_id": "wWz1GWTbSLw",
-          "episode": 18
+          "episode": 18,
+          "thumbnail": "https://i.ytimg.com/vi/wWz1GWTbSLw/hqdefault.jpg"
         },
         {
           "youtube_id": "uprcgxfc4hk",
-          "episode": 19
+          "episode": 19,
+          "thumbnail": "https://i.ytimg.com/vi/uprcgxfc4hk/hqdefault.jpg"
         },
         {
           "youtube_id": "tnvRLeKGWww",
-          "episode": 20
+          "episode": 20,
+          "thumbnail": "https://i.ytimg.com/vi/tnvRLeKGWww/hqdefault.jpg"
         },
         {
           "youtube_id": "rHcitaDjwns",
-          "episode": 21
+          "episode": 21,
+          "thumbnail": "https://i.ytimg.com/vi/rHcitaDjwns/hqdefault.jpg"
         },
         {
           "youtube_id": "Uv7nqACbSLg",
-          "episode": 22
+          "episode": 22,
+          "thumbnail": "https://i.ytimg.com/vi/Uv7nqACbSLg/hqdefault.jpg"
         },
         {
           "youtube_id": "Zqe8v_3sOyQ",
-          "episode": 23
+          "episode": 23,
+          "thumbnail": "https://i.ytimg.com/vi/Zqe8v_3sOyQ/hqdefault.jpg"
         },
         {
           "youtube_id": "KS8QXx_wAEQ",
-          "episode": 24
+          "episode": 24,
+          "thumbnail": "https://i.ytimg.com/vi/KS8QXx_wAEQ/hqdefault.jpg"
         },
         {
           "youtube_id": "icKjnIrkpXA",
-          "episode": 25
+          "episode": 25,
+          "thumbnail": "https://i.ytimg.com/vi/icKjnIrkpXA/hqdefault.jpg"
         },
         {
           "youtube_id": "oQbK_hQ-mSI",
-          "episode": 26
+          "episode": 26,
+          "thumbnail": "https://i.ytimg.com/vi/oQbK_hQ-mSI/hqdefault.jpg"
         },
         {
           "youtube_id": "EXxq8pW0Pbo",
-          "episode": 27
+          "episode": 27,
+          "thumbnail": "https://i.ytimg.com/vi/EXxq8pW0Pbo/hqdefault.jpg"
         },
         {
           "youtube_id": "Lzoesj0aNQw",
-          "episode": 28
+          "episode": 28,
+          "thumbnail": "https://i.ytimg.com/vi/Lzoesj0aNQw/hqdefault.jpg"
         },
         {
           "youtube_id": "Z-Tf-WBR2n4",
-          "episode": 29
+          "episode": 29,
+          "thumbnail": "https://i.ytimg.com/vi/Z-Tf-WBR2n4/hqdefault.jpg"
         },
         {
           "youtube_id": "oisGrGbOKiQ",
-          "episode": 30
+          "episode": 30,
+          "thumbnail": "https://i.ytimg.com/vi/oisGrGbOKiQ/hqdefault.jpg"
         },
         {
           "youtube_id": "W5iD6uEnowA",
-          "episode": 31
+          "episode": 31,
+          "thumbnail": "https://i.ytimg.com/vi/W5iD6uEnowA/hqdefault.jpg"
         },
         {
           "youtube_id": "l0yc-Gs8FlU",
-          "episode": 32
+          "episode": 32,
+          "thumbnail": "https://i.ytimg.com/vi/l0yc-Gs8FlU/hqdefault.jpg"
         },
         {
           "youtube_id": "Vjh7U2Q6Wew",
-          "episode": 33
+          "episode": 33,
+          "thumbnail": "https://i.ytimg.com/vi/Vjh7U2Q6Wew/hqdefault.jpg"
         },
         {
           "youtube_id": "FzIjkwYlkWQ",
-          "episode": 34
+          "episode": 34,
+          "thumbnail": "https://i.ytimg.com/vi/FzIjkwYlkWQ/hqdefault.jpg"
         },
         {
           "youtube_id": "wHkspSzhnr4",
-          "episode": 35
+          "episode": 35,
+          "thumbnail": "https://i.ytimg.com/vi/wHkspSzhnr4/hqdefault.jpg"
         },
         {
           "youtube_id": "h-PATnMnxj0",
-          "episode": 36
+          "episode": 36,
+          "thumbnail": "https://i.ytimg.com/vi/h-PATnMnxj0/hqdefault.jpg"
         },
         {
           "youtube_id": "uV6DJLY6XEg",
-          "episode": 37
+          "episode": 37,
+          "thumbnail": "https://i.ytimg.com/vi/uV6DJLY6XEg/hqdefault.jpg"
         },
         {
           "youtube_id": "Y4GHb7MSO-w",
-          "episode": 38
+          "episode": 38,
+          "thumbnail": "https://i.ytimg.com/vi/Y4GHb7MSO-w/hqdefault.jpg"
         },
         {
           "youtube_id": "80U7oxLxjFI",
-          "episode": 39
+          "episode": 39,
+          "thumbnail": "https://i.ytimg.com/vi/80U7oxLxjFI/hqdefault.jpg"
         },
         {
           "youtube_id": "ASgKO38-jZE",
-          "episode": 40
+          "episode": 40,
+          "thumbnail": "https://i.ytimg.com/vi/ASgKO38-jZE/hqdefault.jpg"
         },
         {
           "youtube_id": "iICV9IHo54I",
-          "episode": 41
+          "episode": 41,
+          "thumbnail": "https://i.ytimg.com/vi/iICV9IHo54I/hqdefault.jpg"
         },
         {
           "youtube_id": "JVS5r7Y1CVk",
-          "episode": 42
+          "episode": 42,
+          "thumbnail": "https://i.ytimg.com/vi/JVS5r7Y1CVk/hqdefault.jpg"
         },
         {
           "youtube_id": "Swmn_wYUhHw",
-          "episode": 43
+          "episode": 43,
+          "thumbnail": "https://i.ytimg.com/vi/Swmn_wYUhHw/hqdefault.jpg"
         },
         {
           "youtube_id": "hpsKkikZP54",
-          "episode": 44
+          "episode": 44,
+          "thumbnail": "https://i.ytimg.com/vi/hpsKkikZP54/hqdefault.jpg"
         },
         {
           "youtube_id": "Va8llxI3s5o",
-          "episode": 45
+          "episode": 45,
+          "thumbnail": "https://i.ytimg.com/vi/Va8llxI3s5o/hqdefault.jpg"
         },
         {
           "youtube_id": "3cSTKUlokbE",
-          "episode": 46
+          "episode": 46,
+          "thumbnail": "https://i.ytimg.com/vi/3cSTKUlokbE/hqdefault.jpg"
         },
         {
           "youtube_id": "L0VlkzfzMeY",
-          "episode": 47
+          "episode": 47,
+          "thumbnail": "https://i.ytimg.com/vi/L0VlkzfzMeY/hqdefault.jpg"
         },
         {
           "youtube_id": "CuLOVWncd5o",
-          "episode": 48
+          "episode": 48,
+          "thumbnail": "https://i.ytimg.com/vi/CuLOVWncd5o/hqdefault.jpg"
         }
       ],
       "updated_at": "2026-11-11T19:34:43Z"
@@ -209,43 +257,53 @@
       "videos": [
         {
           "youtube_id": "n9F7BLWRFZw",
-          "episode": 1
+          "episode": 1,
+          "thumbnail": "https://i.ytimg.com/vi/n9F7BLWRFZw/hqdefault.jpg"
         },
         {
           "youtube_id": "LMZL4vXB8E8",
-          "episode": 2
+          "episode": 2,
+          "thumbnail": "https://i.ytimg.com/vi/LMZL4vXB8E8/hqdefault.jpg"
         },
         {
           "youtube_id": "1FC-R37MkyM",
-          "episode": 3
+          "episode": 3,
+          "thumbnail": "https://i.ytimg.com/vi/1FC-R37MkyM/hqdefault.jpg"
         },
         {
           "youtube_id": "SZe4pkAWxuw",
-          "episode": 4
+          "episode": 4,
+          "thumbnail": "https://i.ytimg.com/vi/SZe4pkAWxuw/hqdefault.jpg"
         },
         {
           "youtube_id": "jGwJMvIo8mA",
-          "episode": 5
+          "episode": 5,
+          "thumbnail": "https://i.ytimg.com/vi/jGwJMvIo8mA/hqdefault.jpg"
         },
         {
           "youtube_id": "ENKiZSq3dfs",
-          "episode": 6
+          "episode": 6,
+          "thumbnail": "https://i.ytimg.com/vi/ENKiZSq3dfs/hqdefault.jpg"
         },
         {
           "youtube_id": "qW44F3SY-h8",
-          "episode": 7
+          "episode": 7,
+          "thumbnail": "https://i.ytimg.com/vi/qW44F3SY-h8/hqdefault.jpg"
         },
         {
           "youtube_id": "SatcU10Dz9E",
-          "episode": 8
+          "episode": 8,
+          "thumbnail": "https://i.ytimg.com/vi/SatcU10Dz9E/hqdefault.jpg"
         },
         {
           "youtube_id": "RHmrAPnL_q4",
-          "episode": 9
+          "episode": 9,
+          "thumbnail": "https://i.ytimg.com/vi/RHmrAPnL_q4/hqdefault.jpg"
         },
         {
           "youtube_id": "sbc1qNlMySI",
-          "episode": 10
+          "episode": 10,
+          "thumbnail": "https://i.ytimg.com/vi/sbc1qNlMySI/hqdefault.jpg"
         }
       ],
       "updated_at": "2026-11-11T19:35:16Z"
@@ -258,23 +316,28 @@
       "videos": [
         {
           "youtube_id": "1plmn2d5yx0",
-          "episode": 1
+          "episode": 1,
+          "thumbnail": "https://i.ytimg.com/vi/1plmn2d5yx0/hqdefault.jpg"
         },
         {
           "youtube_id": "CjI7WupgPPs",
-          "episode": 2
+          "episode": 2,
+          "thumbnail": "https://i.ytimg.com/vi/CjI7WupgPPs/hqdefault.jpg"
         },
         {
           "youtube_id": "8Pb3LwuuF5E",
-          "episode": 3
+          "episode": 3,
+          "thumbnail": "https://i.ytimg.com/vi/8Pb3LwuuF5E/hqdefault.jpg"
         },
         {
           "youtube_id": "wsNVosRNPDs",
-          "episode": 4
+          "episode": 4,
+          "thumbnail": "https://i.ytimg.com/vi/wsNVosRNPDs/hqdefault.jpg"
         },
         {
           "youtube_id": "-D9PwYBQ9co",
-          "episode": 5
+          "episode": 5,
+          "thumbnail": "https://i.ytimg.com/vi/-D9PwYBQ9co/hqdefault.jpg"
         }
       ],
       "updated_at": "2026-11-11T19:35:53Z"

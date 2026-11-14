@@ -1,6 +1,67 @@
 {
   "channels": [
     {
+      "id": "UCd-qu6Ke0IfUTsaAQPUBFRA",
+      "youtube_channel_id": "UCd-qu6Ke0IfUTsaAQPUBFRA",
+      "name": "Alice Ha",
+      "enabled": true,
+      "video_count": 12,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCd-qu6Ke0IfUTsaAQPUBFRA",
+      "thumbnail": "assets/channels/UCd-qu6Ke0IfUTsaAQPUBFRA.jpg"
+    },
+    {
+      "id": "UCi6CqLjdoCN_ijofoCJFpCw",
+      "youtube_channel_id": "UCi6CqLjdoCN_ijofoCJFpCw",
+      "name": "Anton 安冬晴",
+      "enabled": true,
+      "video_count": 11,
+      "categories": [
+        "youtube",
+        "music"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCi6CqLjdoCN_ijofoCJFpCw",
+      "thumbnail": "assets/channels/UCi6CqLjdoCN_ijofoCJFpCw.jpg"
+    },
+    {
+      "id": "UCHrgHYFc5KShMJDZNsDZh4g",
+      "youtube_channel_id": "UCHrgHYFc5KShMJDZNsDZh4g",
+      "name": "BETHNI Y",
+      "enabled": true,
+      "video_count": 30,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHrgHYFc5KShMJDZNsDZh4g",
+      "thumbnail": "assets/channels/UCHrgHYFc5KShMJDZNsDZh4g.jpg"
+    },
+    {
+      "id": "UCDWOYEhVnyD4IHZGVAMLc0g",
+      "youtube_channel_id": "UCDWOYEhVnyD4IHZGVAMLc0g",
+      "name": "Brendan 毛爸",
+      "enabled": true,
+      "video_count": 151,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCDWOYEhVnyD4IHZGVAMLc0g",
+      "thumbnail": "assets/channels/UCDWOYEhVnyD4IHZGVAMLc0g.jpg"
+    },
+    {
+      "id": "UC9_PnptBIpNF0JXbJjd8TsQ",
+      "youtube_channel_id": "UC9_PnptBIpNF0JXbJjd8TsQ",
+      "name": "Brown's Channel",
+      "enabled": true,
+      "video_count": 33,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC9_PnptBIpNF0JXbJjd8TsQ",
+      "thumbnail": "assets/channels/UC9_PnptBIpNF0JXbJjd8TsQ.jpg"
+    },
+    {
       "id": "UCYvWWDj90w1wSoFSe0AcaZg",
       "youtube_channel_id": "UCYvWWDj90w1wSoFSe0AcaZg",
       "name": "CantoCaptions",
@@ -47,6 +108,18 @@
       ],
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCQS2_zzisMq5C_FggxsQwTQ",
       "thumbnail": "assets/channels/UCQS2_zzisMq5C_FggxsQwTQ.jpg"
+    },
+    {
+      "id": "UC0Da4Jp5vYSPa6hCI6MOrCQ",
+      "youtube_channel_id": "UC0Da4Jp5vYSPa6hCI6MOrCQ",
+      "name": "Cussion Reve",
+      "enabled": true,
+      "video_count": 7,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC0Da4Jp5vYSPa6hCI6MOrCQ",
+      "thumbnail": "assets/channels/UC0Da4Jp5vYSPa6hCI6MOrCQ.jpg"
     },
     {
       "id": "UCbmZSNWyEoM2xtWhbHRPo3w",
@@ -97,6 +170,18 @@
       "thumbnail": "assets/channels/UCpE6V9kRImKY0HX3THRgYpw.jpg"
     },
     {
+      "id": "UC8KiyunvRWgmUb9OmisoBug",
+      "youtube_channel_id": "UC8KiyunvRWgmUb9OmisoBug",
+      "name": "JP電腦教學",
+      "enabled": true,
+      "video_count": 84,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8KiyunvRWgmUb9OmisoBug",
+      "thumbnail": "assets/channels/UC8KiyunvRWgmUb9OmisoBug.jpg"
+    },
+    {
       "id": "UCNbLsoqYdTHC92c2-K8dodA",
       "youtube_channel_id": "UCNbLsoqYdTHC92c2-K8dodA",
       "name": "Kim Tsang",
@@ -125,12 +210,36 @@
       "youtube_channel_id": "UCFvNTonwenxQQkPlaSPxdUA",
       "name": "Learn Cantonese Together",
       "enabled": true,
-      "video_count": 123,
+      "video_count": 124,
       "categories": [
         "youtube"
       ],
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFvNTonwenxQQkPlaSPxdUA",
       "thumbnail": "assets/channels/UCFvNTonwenxQQkPlaSPxdUA.jpg"
+    },
+    {
+      "id": "UCBiJDTc82IM68KVH873VeAw",
+      "youtube_channel_id": "UCBiJDTc82IM68KVH873VeAw",
+      "name": "Live in Kwangsi廣西人·情·味",
+      "enabled": true,
+      "video_count": 552,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBiJDTc82IM68KVH873VeAw",
+      "thumbnail": "assets/channels/UCBiJDTc82IM68KVH873VeAw.jpg"
+    },
+    {
+      "id": "UCVvdX8wGBmCM9KerhiVu_Ig",
+      "youtube_channel_id": "UCVvdX8wGBmCM9KerhiVu_Ig",
+      "name": "McFatty 麥花田",
+      "enabled": true,
+      "video_count": 125,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVvdX8wGBmCM9KerhiVu_Ig",
+      "thumbnail": "assets/channels/UCVvdX8wGBmCM9KerhiVu_Ig.jpg"
     },
     {
       "id": "UCEuQ-0x3uMk1KghGiO1kTHg",
@@ -157,6 +266,18 @@
       "thumbnail": "assets/channels/UC2oB9QCXs-RKtaKChrz4dKg.jpg"
     },
     {
+      "id": "UC8_hxeY0nDCL-8ETbcGUZ9g",
+      "youtube_channel_id": "UC8_hxeY0nDCL-8ETbcGUZ9g",
+      "name": "PT食為先",
+      "enabled": true,
+      "video_count": 181,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC8_hxeY0nDCL-8ETbcGUZ9g",
+      "thumbnail": "assets/channels/UC8_hxeY0nDCL-8ETbcGUZ9g.jpg"
+    },
+    {
       "id": "UC249m2fxYzK-NnfH06YNP3A",
       "youtube_channel_id": "UC249m2fxYzK-NnfH06YNP3A",
       "name": "Siu Mei小美",
@@ -167,6 +288,18 @@
       ],
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC249m2fxYzK-NnfH06YNP3A",
       "thumbnail": "assets/channels/UC249m2fxYzK-NnfH06YNP3A.jpg"
+    },
+    {
+      "id": "UCpGm9u4iYIev-BCA7mbAt6Q",
+      "youtube_channel_id": "UCpGm9u4iYIev-BCA7mbAt6Q",
+      "name": "TVBean",
+      "enabled": true,
+      "video_count": 161,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCpGm9u4iYIev-BCA7mbAt6Q",
+      "thumbnail": "assets/channels/UCpGm9u4iYIev-BCA7mbAt6Q.jpg"
     },
     {
       "id": "UCCVn38j5xSJZN-II-TeyomA",
@@ -181,6 +314,18 @@
       "thumbnail": "assets/channels/UCCVn38j5xSJZN-II-TeyomA.jpg"
     },
     {
+      "id": "UCMqrlsr-AECPc6_3oDr8m9w",
+      "youtube_channel_id": "UCMqrlsr-AECPc6_3oDr8m9w",
+      "name": "Unicorn 獸哥",
+      "enabled": true,
+      "video_count": 67,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMqrlsr-AECPc6_3oDr8m9w",
+      "thumbnail": "assets/channels/UCMqrlsr-AECPc6_3oDr8m9w.jpg"
+    },
+    {
       "id": "UCRlq4EUzB7RUBiaX_ax5Ylw",
       "youtube_channel_id": "UCRlq4EUzB7RUBiaX_ax5Ylw",
       "name": "啡啡channel",
@@ -191,6 +336,18 @@
       ],
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCRlq4EUzB7RUBiaX_ax5Ylw",
       "thumbnail": "assets/channels/UCRlq4EUzB7RUBiaX_ax5Ylw.jpg"
+    },
+    {
+      "id": "UCw_ceviv9B5nEgTZ4Jbok0g",
+      "youtube_channel_id": "UCw_ceviv9B5nEgTZ4Jbok0g",
+      "name": "張婆 Granny Cheung Por",
+      "enabled": true,
+      "video_count": 32,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw_ceviv9B5nEgTZ4Jbok0g",
+      "thumbnail": "assets/channels/UCw_ceviv9B5nEgTZ4Jbok0g.jpg"
     },
     {
       "id": "UCrKLUUq0DFi33HCODp59okg",
@@ -263,6 +420,42 @@
       ],
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCF6M5AH_OALkimFGKdlWfCw",
       "thumbnail": "assets/channels/UCF6M5AH_OALkimFGKdlWfCw.jpg"
+    },
+    {
+      "id": "UCOPLu2jjrQ8bIgP9olEZ4lQ",
+      "youtube_channel_id": "UCOPLu2jjrQ8bIgP9olEZ4lQ",
+      "name": "香港Vtuber宣傳大使",
+      "enabled": true,
+      "video_count": 14,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOPLu2jjrQ8bIgP9olEZ4lQ",
+      "thumbnail": "assets/channels/UCOPLu2jjrQ8bIgP9olEZ4lQ.jpg"
+    },
+    {
+      "id": "UC2nS6tzmGmZohSwyTNgyXow",
+      "youtube_channel_id": "UC2nS6tzmGmZohSwyTNgyXow",
+      "name": "魔×°占皮",
+      "enabled": true,
+      "video_count": 37,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC2nS6tzmGmZohSwyTNgyXow",
+      "thumbnail": "assets/channels/UC2nS6tzmGmZohSwyTNgyXow.jpg"
+    },
+    {
+      "id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+      "youtube_channel_id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+      "name": "麥兜Mcdull",
+      "enabled": true,
+      "video_count": 55,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCMDQ0yBIh37t3Nm-mnMODCA",
+      "thumbnail": "assets/channels/UCMDQ0yBIh37t3Nm-mnMODCA.jpg"
     },
     {
       "id": "UCUtm1awT2EO9D7uJ2OlMcTQ",

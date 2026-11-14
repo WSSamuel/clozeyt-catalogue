@@ -2,13 +2,15 @@
   "id": "Z6-MEms8OxM",
   "type": "youtube",
   "category_id": "youtube",
-  "subcategory_id": null,
+  "subcategory_id": "beauty",
   "category_ids": [
     "youtube"
   ],
-  "subcategory_ids": [],
+  "subcategory_ids": [
+    "beauty"
+  ],
   "cross_tags": [],
-  "channel_tag_rule_applied": false,
+  "channel_tag_rule_applied": true,
   "category_manual": false,
   "title": "【2022年度空瓶賞上集】接近30件產品🔥 大量頭髮身體護理 無限回購美瞳款+超詳細分享✨｜敏感乾燥肌的卸妝好物｜小美",
   "language": "zh-HK",
@@ -33,7 +35,7 @@
   "channel_id": "UC249m2fxYzK-NnfH06YNP3A",
   "channel_name": "Siu Mei小美",
   "channel_thumbnail": "assets/channels/UC249m2fxYzK-NnfH06YNP3A.jpg",
-  "thumbnail": "assets/videos/Z6-MEms8OxM.webp",
+  "thumbnail": "https://i.ytimg.com/vi/Z6-MEms8OxM/hqdefault.jpg",
   "playlist_id": "UC249m2fxYzK-NnfH06YNP3A",
   "playlist_title": "Siu Mei小美",
   "playlist_index": 31,

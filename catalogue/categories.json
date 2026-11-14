@@ -46,9 +46,56 @@
           "order": 8
         },
         {
+          "id": "beauty",
+          "title": "Beauty",
+          "order": 10
+        },
+        {
+          "id": "lifestyle",
+          "title": "Lifestyle",
+          "description": "Daily life, family and lifestyle content.",
+          "order": 11
+        },
+        {
+          "id": "travel",
+          "title": "Travel",
+          "description": "Travel videos and exploring places.",
+          "order": 12
+        },
+        {
+          "id": "food",
+          "title": "Food",
+          "description": "Cooking, food reviews and mukbang.",
+          "order": 13
+        },
+        {
+          "id": "comedy",
+          "title": "Comedy",
+          "description": "Comedy sketches and humorous content.",
+          "order": 14
+        },
+        {
+          "id": "interviews",
+          "title": "Interviews",
+          "description": "Interviews and discussions.",
+          "order": 15
+        },
+        {
+          "id": "language_learning",
+          "title": "Language Learning",
+          "description": "Dedicated language lessons.",
+          "order": 16
+        },
+        {
+          "id": "technology",
+          "title": "Technology",
+          "description": "Computer tutorials, software guides, phone and app tutorials, tech tips, troubleshooting and digital skills.",
+          "order": 17
+        },
+        {
           "id": "just_chatting",
           "title": "Just Chatting",
-          "order": 9
+          "order": 18
         }
       ]
     },
@@ -95,7 +142,8 @@
         {
           "id": "music_video",
           "title": "Music Videos / Other Music",
-          "order": 8
+          "order": 8,
+          "thumbnail": "https://i.ytimg.com/vi/music_video/hqdefault.jpg"
         },
         {
           "id": "live_performance",
@@ -137,7 +185,8 @@
         {
           "id": "documentary",
           "title": "Documentaries",
-          "order": 4
+          "order": 4,
+          "thumbnail": "https://i.ytimg.com/vi/documentary/hqdefault.jpg"
         }
       ]
     }

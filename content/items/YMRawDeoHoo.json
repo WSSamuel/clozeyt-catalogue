@@ -1,0 +1,47 @@
+{
+  "id": "YMRawDeoHoo",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "animations",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "animations",
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "《麥兜菠蘿油王子》：詐詐諦諦學兩文三語",
+  "language": "zh-HK",
+  "language_group": "regional_chinese",
+  "subtitle_classification": "regional_chinese",
+  "subtitle_classification_label": "Hong Kong/Macau Chinese (dialect not verified)",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "zh-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-13T15:01:20Z",
+  "index": "indexes/youtube/YMRawDeoHoo.json",
+  "total_occurrences": 293,
+  "unique_words": 176,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 38,
+  "youtube_id": "YMRawDeoHoo",
+  "url": "https://www.youtube.com/watch?v=YMRawDeoHoo",
+  "youtube_category": "Film & Animation",
+  "source_type": "youtube",
+  "channel_id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+  "channel_name": "麥兜Mcdull",
+  "channel_thumbnail": "assets/channels/UCMDQ0yBIh37t3Nm-mnMODCA.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/YMRawDeoHoo/hqdefault.jpg",
+  "playlist_id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+  "playlist_title": "麥兜Mcdull",
+  "playlist_index": 27,
+  "upload_date": "2020-03-03",
+  "release_timestamp": 1583200804
+}

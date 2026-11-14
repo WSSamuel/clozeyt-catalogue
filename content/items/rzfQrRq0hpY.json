@@ -7,7 +7,8 @@
     "youtube"
   ],
   "subcategory_ids": [
-    "vlog"
+    "vlog",
+    "lifestyle"
   ],
   "cross_tags": [],
   "channel_tag_rule_applied": true,
@@ -35,7 +36,7 @@
   "channel_id": "UCNbLsoqYdTHC92c2-K8dodA",
   "channel_name": "Kim Tsang",
   "channel_thumbnail": "assets/channels/UCNbLsoqYdTHC92c2-K8dodA.jpg",
-  "thumbnail": "assets/videos/rzfQrRq0hpY.webp",
+  "thumbnail": "https://i.ytimg.com/vi/rzfQrRq0hpY/hqdefault.jpg",
   "playlist_id": "UCNbLsoqYdTHC92c2-K8dodA",
   "playlist_title": "Kim Tsang",
   "playlist_index": 30,

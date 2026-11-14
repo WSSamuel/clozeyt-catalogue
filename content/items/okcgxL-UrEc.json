@@ -2,13 +2,15 @@
   "id": "okcgxL-UrEc",
   "type": "youtube",
   "category_id": "youtube",
-  "subcategory_id": null,
+  "subcategory_id": "vlog",
   "category_ids": [
     "youtube"
   ],
-  "subcategory_ids": [],
+  "subcategory_ids": [
+    "vlog"
+  ],
   "cross_tags": [],
-  "channel_tag_rule_applied": false,
+  "channel_tag_rule_applied": true,
   "category_manual": false,
   "title": "[CANTO/EN sub] 🇰🇷首爾VLOG EP2: 去韓屋cafe 🍞 租韓服去昌德宮睇紅葉 🍁 1萬won嘅平民米芝蓮韓式拌飯 😋 N Seoul Tower 有得睇夜景嘅廁所！",
   "language": "yue",
@@ -33,7 +35,7 @@
   "channel_id": "UC2oB9QCXs-RKtaKChrz4dKg",
   "channel_name": "MtzCherry",
   "channel_thumbnail": "assets/channels/UC2oB9QCXs-RKtaKChrz4dKg.jpg",
-  "thumbnail": "assets/videos/okcgxL-UrEc.webp",
+  "thumbnail": "https://i.ytimg.com/vi/okcgxL-UrEc/hqdefault.jpg",
   "playlist_id": "UC2oB9QCXs-RKtaKChrz4dKg",
   "playlist_title": "MtzCherry",
   "playlist_index": 14,

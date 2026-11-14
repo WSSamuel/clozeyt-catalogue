@@ -2,12 +2,12 @@
   "id": "ASgKO38-jZE",
   "type": "youtube",
   "category_id": "youtube",
-  "subcategory_id": "education",
+  "subcategory_id": "animations",
   "category_ids": [
     "youtube"
   ],
   "subcategory_ids": [
-    "education"
+    "animations"
   ],
   "cross_tags": [
     "made_for_learners"
@@ -37,7 +37,7 @@
   "channel_id": "UCYvWWDj90w1wSoFSe0AcaZg",
   "channel_name": "CantoCaptions",
   "channel_thumbnail": "assets/channels/UCYvWWDj90w1wSoFSe0AcaZg.jpg",
-  "thumbnail": "assets/videos/ASgKO38-jZE.webp",
+  "thumbnail": "https://i.ytimg.com/vi/ASgKO38-jZE/hqdefault.jpg",
   "playlist_id": "UCYvWWDj90w1wSoFSe0AcaZg",
   "playlist_title": "CantoCaptions",
   "playlist_index": 31,

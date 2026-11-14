@@ -1,0 +1,47 @@
+{
+  "id": "0oCP7nZhZJo",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "animations",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "animations",
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "《麥兜故事》電影歌曲: 麥兜與雞",
+  "language": "zh-HK",
+  "language_group": "regional_chinese",
+  "subtitle_classification": "regional_chinese",
+  "subtitle_classification_label": "Hong Kong/Macau Chinese (dialect not verified)",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "zh-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-13T15:05:13Z",
+  "index": "indexes/youtube/0oCP7nZhZJo.json",
+  "total_occurrences": 138,
+  "unique_words": 69,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 13,
+  "youtube_id": "0oCP7nZhZJo",
+  "url": "https://www.youtube.com/watch?v=0oCP7nZhZJo",
+  "youtube_category": "Film & Animation",
+  "source_type": "youtube",
+  "channel_id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+  "channel_name": "麥兜Mcdull",
+  "channel_thumbnail": "assets/channels/UCMDQ0yBIh37t3Nm-mnMODCA.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/0oCP7nZhZJo/hqdefault.jpg",
+  "playlist_id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+  "playlist_title": "麥兜Mcdull",
+  "playlist_index": 77,
+  "upload_date": "2019-12-27",
+  "release_timestamp": 1577414244
+}

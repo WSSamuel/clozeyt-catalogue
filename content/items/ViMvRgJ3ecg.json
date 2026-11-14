@@ -7,7 +7,9 @@
     "youtube"
   ],
   "subcategory_ids": [
-    "vlog"
+    "vlog",
+    "lifestyle",
+    "food"
   ],
   "cross_tags": [],
   "channel_tag_rule_applied": true,
@@ -35,7 +37,7 @@
   "channel_id": "UCNZv5IQfcWySi8iPtB1zNlw",
   "channel_name": "FEmeow",
   "channel_thumbnail": "assets/channels/UCNZv5IQfcWySi8iPtB1zNlw.jpg",
-  "thumbnail": "assets/videos/ViMvRgJ3ecg.webp",
+  "thumbnail": "https://i.ytimg.com/vi/ViMvRgJ3ecg/hqdefault.jpg",
   "playlist_id": "UCNZv5IQfcWySi8iPtB1zNlw",
   "playlist_title": "FEmeow",
   "playlist_index": 6,

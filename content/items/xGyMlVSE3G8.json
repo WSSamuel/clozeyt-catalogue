@@ -1,0 +1,47 @@
+{
+  "id": "xGyMlVSE3G8",
+  "type": "youtube",
+  "category_id": "youtube",
+  "subcategory_id": "animations",
+  "category_ids": [
+    "youtube"
+  ],
+  "subcategory_ids": [
+    "animations",
+    "kids"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": false,
+  "category_manual": true,
+  "title": "《麥兜響噹噹》電影歌曲: 人細細",
+  "language": "zh-HK",
+  "language_group": "regional_chinese",
+  "subtitle_classification": "regional_chinese",
+  "subtitle_classification_label": "Hong Kong/Macau Chinese (dialect not verified)",
+  "subtitle_source": "creator",
+  "subtitle_track_language_code": "zh-HK",
+  "subtitle_verified": false,
+  "status": "indexed",
+  "indexed_at": "2026-11-13T15:03:59Z",
+  "index": "indexes/youtube/xGyMlVSE3G8.json",
+  "total_occurrences": 65,
+  "unique_words": 27,
+  "tokenizer": "clozeyt-flutter-frequency-greedy-v1",
+  "index_schema_version": 5,
+  "unmatched_character_occurrences": 14,
+  "youtube_id": "xGyMlVSE3G8",
+  "url": "https://www.youtube.com/watch?v=xGyMlVSE3G8",
+  "youtube_category": "Film & Animation",
+  "source_type": "youtube",
+  "channel_id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+  "channel_name": "麥兜Mcdull",
+  "channel_thumbnail": "assets/channels/UCMDQ0yBIh37t3Nm-mnMODCA.jpg",
+  "thumbnail": "https://i.ytimg.com/vi/xGyMlVSE3G8/hqdefault.jpg",
+  "playlist_id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+  "playlist_title": "麥兜Mcdull",
+  "playlist_index": 61,
+  "upload_date": "2020-01-17",
+  "release_timestamp": 1579226405
+}

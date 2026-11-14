@@ -2,13 +2,15 @@
   "id": "_MPqi1VuS9w",
   "type": "youtube",
   "category_id": "youtube",
-  "subcategory_id": null,
+  "subcategory_id": "beauty",
   "category_ids": [
     "youtube"
   ],
-  "subcategory_ids": [],
+  "subcategory_ids": [
+    "beauty"
+  ],
   "cross_tags": [],
-  "channel_tag_rule_applied": false,
+  "channel_tag_rule_applied": true,
   "category_manual": false,
   "title": "精挑細選🏆夏天必備好物通通告訴你🙊大胸不掉無肩帶內衣👙抵著涼鞋👡著左5年的不敗牛仔短褲🩳當底妝用的美肌防曬🕶｜Siu Mei 小美｜",
   "language": "zh-HK",
@@ -33,7 +35,7 @@
   "channel_id": "UC249m2fxYzK-NnfH06YNP3A",
   "channel_name": "Siu Mei小美",
   "channel_thumbnail": "assets/channels/UC249m2fxYzK-NnfH06YNP3A.jpg",
-  "thumbnail": "assets/videos/_MPqi1VuS9w.webp",
+  "thumbnail": "https://i.ytimg.com/vi/_MPqi1VuS9w/hqdefault.jpg",
   "playlist_id": "UC249m2fxYzK-NnfH06YNP3A",
   "playlist_title": "Siu Mei小美",
   "playlist_index": 39,

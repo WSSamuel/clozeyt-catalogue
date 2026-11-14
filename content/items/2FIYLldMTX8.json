@@ -2,13 +2,17 @@
   "id": "2FIYLldMTX8",
   "type": "youtube",
   "category_id": "youtube",
-  "subcategory_id": null,
+  "subcategory_id": "education",
   "category_ids": [
     "youtube"
   ],
-  "subcategory_ids": [],
-  "cross_tags": [],
-  "channel_tag_rule_applied": false,
+  "subcategory_ids": [
+    "education"
+  ],
+  "cross_tags": [
+    "made_for_learners"
+  ],
+  "channel_tag_rule_applied": true,
   "category_manual": false,
   "title": "Summer Travel: 3 Places I Visited-Part 1廣西陽朔  | 今個暑假我去過嘅地方 | Intermediate Cantonese",
   "language": "yue",
@@ -33,7 +37,7 @@
   "channel_id": "UCQS2_zzisMq5C_FggxsQwTQ",
   "channel_name": "Comprehensible Cantonese",
   "channel_thumbnail": "assets/channels/UCQS2_zzisMq5C_FggxsQwTQ.jpg",
-  "thumbnail": "assets/videos/2FIYLldMTX8.webp",
+  "thumbnail": "https://i.ytimg.com/vi/2FIYLldMTX8/hqdefault.jpg",
   "playlist_id": "UCQS2_zzisMq5C_FggxsQwTQ",
   "playlist_title": "Comprehensible Cantonese",
   "playlist_index": 63,

@@ -2,13 +2,15 @@
   "id": "PjDx37SYrnU",
   "type": "youtube",
   "category_id": "youtube",
-  "subcategory_id": null,
+  "subcategory_id": "vlog",
   "category_ids": [
     "youtube"
   ],
-  "subcategory_ids": [],
+  "subcategory_ids": [
+    "vlog"
+  ],
   "cross_tags": [],
-  "channel_tag_rule_applied": false,
+  "channel_tag_rule_applied": true,
   "category_manual": false,
   "title": "[CANTO/ENG sub] 🇯🇵 Osaka 2024 Summer Trip Day 1-2  🥐City Bakery 🏯Castle  🐧Tenhōji Zoo 🍋Lawson Chicki",
   "language": "yue",
@@ -33,7 +35,7 @@
   "channel_id": "UC2oB9QCXs-RKtaKChrz4dKg",
   "channel_name": "MtzCherry",
   "channel_thumbnail": "assets/channels/UC2oB9QCXs-RKtaKChrz4dKg.jpg",
-  "thumbnail": "assets/videos/PjDx37SYrnU.webp",
+  "thumbnail": "https://i.ytimg.com/vi/PjDx37SYrnU/hqdefault.jpg",
   "playlist_id": "UC2oB9QCXs-RKtaKChrz4dKg",
   "playlist_title": "MtzCherry",
   "playlist_index": 9,

@@ -43,12 +43,6 @@
       "last_checked": "2026-11-12T15:55:11Z"
     },
     {
-      "id": "UCFvNTonwenxQQkPlaSPxdUA",
-      "name": "Learn Cantonese Together",
-      "url": "https://www.youtube.com/channel/UCFvNTonwenxQQkPlaSPxdUA",
-      "last_checked": "2026-11-12T15:55:42Z"
-    },
-    {
       "id": "UC6x9ZsseOx2VH5jUxR5yoMA",
       "name": "郭柏妍 Rosita Kwok",
       "url": "https://www.youtube.com/@rositakpyy/videos",
@@ -103,12 +97,6 @@
       "last_checked": "2026-11-12T19:10:55Z"
     },
     {
-      "id": "UCF6M5AH_OALkimFGKdlWfCw",
-      "name": "采姐姐的故事王國 Lillian's Story Kingdom",
-      "url": "https://www.youtube.com/@lillianstorykingdom",
-      "last_checked": "2026-11-12T19:43:04Z"
-    },
-    {
       "id": "UCPMsgWJvrkEHE0OpIMtxyYQ",
       "name": "Comfort鬆",
       "url": "https://www.youtube.com/@comfort5266/videos",
@@ -121,16 +109,124 @@
       "last_checked": "2026-11-12T20:22:46Z"
     },
     {
+      "id": "UCFvNTonwenxQQkPlaSPxdUA",
+      "name": "Learn Cantonese Together",
+      "url": "https://www.youtube.com/channel/UCFvNTonwenxQQkPlaSPxdUA",
+      "last_checked": "2026-11-13T14:40:33Z"
+    },
+    {
       "id": "UCgwEJflQi4WnZ8PU0xdibZQ",
       "name": "Kinson Ho",
-      "url": "https://www.youtube.com/@ksongogogo/videos",
-      "last_checked": "2026-11-12T20:26:30Z"
+      "url": "https://www.youtube.com/@ksongogogo",
+      "last_checked": "2026-11-13T14:41:56Z"
+    },
+    {
+      "id": "UCF6M5AH_OALkimFGKdlWfCw",
+      "name": "采姐姐的故事王國 Lillian's Story Kingdom",
+      "url": "https://www.youtube.com/@lillianstorykingdom",
+      "last_checked": "2026-11-13T14:42:15Z"
     },
     {
       "id": "UCMosCy_NDf55rDQhzdX_h3w",
       "name": "熊熊兒童音樂 Bear Music Ltd.",
       "url": "https://www.youtube.com/@bear2music",
-      "last_checked": "2026-11-12T20:54:22Z"
+      "last_checked": "2026-11-13T14:55:43Z"
+    },
+    {
+      "id": "UCMDQ0yBIh37t3Nm-mnMODCA",
+      "name": "麥兜Mcdull",
+      "url": "https://www.youtube.com/@mylifeasmcdull/videos",
+      "last_checked": "2026-11-13T14:59:26Z"
+    },
+    {
+      "id": "UCOPLu2jjrQ8bIgP9olEZ4lQ",
+      "name": "香港Vtuber宣傳大使",
+      "url": "https://www.youtube.com/@vtuber9794/videos",
+      "last_checked": "2026-11-13T15:37:31Z"
+    },
+    {
+      "id": "UC8KiyunvRWgmUb9OmisoBug",
+      "name": "JP電腦教學",
+      "url": "https://www.youtube.com/@jpcthk",
+      "last_checked": "2026-11-13T15:58:23Z"
+    },
+    {
+      "id": "UCpGm9u4iYIev-BCA7mbAt6Q",
+      "name": "TVBean",
+      "url": "https://www.youtube.com/@TVBean",
+      "last_checked": "2026-11-13T16:18:50Z"
+    },
+    {
+      "id": "UCBiJDTc82IM68KVH873VeAw",
+      "name": "Live in Kwangsi廣西人·情·味",
+      "url": "https://www.youtube.com/@LiveinKwangsi/videos",
+      "last_checked": "2026-11-13T18:15:33Z"
+    },
+    {
+      "id": "UCHrgHYFc5KShMJDZNsDZh4g",
+      "name": "BETHNI Y",
+      "url": "https://www.youtube.com/@bethniy/videos",
+      "last_checked": "2026-11-13T19:30:16Z"
+    },
+    {
+      "id": "UCi6CqLjdoCN_ijofoCJFpCw",
+      "name": "Anton 安冬晴",
+      "url": "https://www.youtube.com/@a.antoniaw/videos",
+      "last_checked": "2026-11-13T19:30:40Z"
+    },
+    {
+      "id": "UCw_ceviv9B5nEgTZ4Jbok0g",
+      "name": "張婆 Granny Cheung Por",
+      "url": "https://www.youtube.com/@GrannyCheungPor",
+      "last_checked": "2026-11-13T21:06:33Z"
+    },
+    {
+      "id": "UCd-qu6Ke0IfUTsaAQPUBFRA",
+      "name": "Alice Ha",
+      "url": "https://www.youtube.com/@HaAlice/videos",
+      "last_checked": "2026-11-13T21:24:52Z"
+    },
+    {
+      "id": "UC0Da4Jp5vYSPa6hCI6MOrCQ",
+      "name": "Cussion Reve",
+      "url": "https://www.youtube.com/@CussionReve",
+      "last_checked": "2026-11-13T21:25:21Z"
+    },
+    {
+      "id": "UC8_hxeY0nDCL-8ETbcGUZ9g",
+      "name": "PT食為先",
+      "url": "https://www.youtube.com/@puiterry",
+      "last_checked": "2026-11-13T22:51:49Z"
+    },
+    {
+      "id": "UCMqrlsr-AECPc6_3oDr8m9w",
+      "name": "Unicorn 獸哥",
+      "url": "https://www.youtube.com/@unicornmanhk",
+      "last_checked": "2026-11-13T23:34:30Z"
+    },
+    {
+      "id": "UC9_PnptBIpNF0JXbJjd8TsQ",
+      "name": "Brown's Channel",
+      "url": "https://www.youtube.com/@brownschannel346",
+      "last_checked": "2026-11-14T00:17:44Z"
+    },
+    {
+      "id": "UCDWOYEhVnyD4IHZGVAMLc0g",
+      "name": "Brendan 毛爸",
+      "url": "https://www.youtube.com/@brendanmoba",
+      "last_checked": "2026-11-14T00:18:15Z"
+    },
+    {
+      "id": "UCVvdX8wGBmCM9KerhiVu_Ig",
+      "name": "McFatty 麥花田",
+      "url": "https://www.youtube.com/@McFattyHK",
+      "last_checked": "2026-11-14T00:18:46Z"
+    },
+    {
+      "id": "UC2nS6tzmGmZohSwyTNgyXow",
+      "name": "魔×°占皮",
+      "url": "https://www.youtube.com/@MoreJimpae",
+      "last_checked": "2026-11-14T13:52:00Z"
     }
   ]
 }
