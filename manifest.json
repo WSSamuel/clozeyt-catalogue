@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "catalogue_version": 18,
-  "updated_at": "2026-11-15T12:41:34Z",
+  "catalogue_version": 50,
+  "updated_at": "2026-11-15T15:01:38Z",
   "files": {
     "categories": "catalogue/categories.json",
     "channels": "catalogue/channels.json",
