@@ -338,6 +338,18 @@
       "thumbnail": "assets/channels/UCRlq4EUzB7RUBiaX_ax5Ylw.jpg"
     },
     {
+      "id": "UCnwlIDF-HqO5kMg_8cneFVg",
+      "youtube_channel_id": "UCnwlIDF-HqO5kMg_8cneFVg",
+      "name": "多毛仔",
+      "enabled": true,
+      "video_count": 84,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCnwlIDF-HqO5kMg_8cneFVg",
+      "thumbnail": "assets/channels/UCnwlIDF-HqO5kMg_8cneFVg.jpg"
+    },
+    {
       "id": "UCw_ceviv9B5nEgTZ4Jbok0g",
       "youtube_channel_id": "UCw_ceviv9B5nEgTZ4Jbok0g",
       "name": "張婆 Granny Cheung Por",
@@ -348,6 +360,18 @@
       ],
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCw_ceviv9B5nEgTZ4Jbok0g",
       "thumbnail": "assets/channels/UCw_ceviv9B5nEgTZ4Jbok0g.jpg"
+    },
+    {
+      "id": "UCFJ_Qwx6emsAviAMf0JgZBg",
+      "youtube_channel_id": "UCFJ_Qwx6emsAviAMf0JgZBg",
+      "name": "木工廠",
+      "enabled": true,
+      "video_count": 98,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCFJ_Qwx6emsAviAMf0JgZBg",
+      "thumbnail": "assets/channels/UCFJ_Qwx6emsAviAMf0JgZBg.jpg"
     },
     {
       "id": "UCrKLUUq0DFi33HCODp59okg",
@@ -396,6 +420,30 @@
       ],
       "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdki6R3jA00E7narSTlsYtA",
       "thumbnail": "assets/channels/UCdki6R3jA00E7narSTlsYtA.jpg"
+    },
+    {
+      "id": "UCJ5WSLQrYslhzrLZ626ymtg",
+      "youtube_channel_id": "UCJ5WSLQrYslhzrLZ626ymtg",
+      "name": "美漫美玩 Henry",
+      "enabled": true,
+      "video_count": 58,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCJ5WSLQrYslhzrLZ626ymtg",
+      "thumbnail": "assets/channels/UCJ5WSLQrYslhzrLZ626ymtg.jpg"
+    },
+    {
+      "id": "UCBqIOPbZqlK1ZCx74QhO1ng",
+      "youtube_channel_id": "UCBqIOPbZqlK1ZCx74QhO1ng",
+      "name": "語言學貓",
+      "enabled": true,
+      "video_count": 54,
+      "categories": [
+        "youtube"
+      ],
+      "rss_url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCBqIOPbZqlK1ZCx74QhO1ng",
+      "thumbnail": "assets/channels/UCBqIOPbZqlK1ZCx74QhO1ng.jpg"
     },
     {
       "id": "UC6x9ZsseOx2VH5jUxR5yoMA",
